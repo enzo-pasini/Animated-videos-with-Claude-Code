@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: topic-to-script-a1
+expected_outcome: |
+  A new folder videos/<date>-<slug>/ with idea.md, facts.md (every claim with a source URL, publisher
+  and an exact quote; key claims with two sources) and script.md in the skill's layout, with a
+  result-first hook and a result: field, that passes tools/script_check.py with no FAIL. The run stops
+  at approval stop A1: it shows 3-5 numbered hook options and the full spoken script as one plain text
+  block, asks the user to pick a hook, and does not write voice_text.txt or an approved: line.

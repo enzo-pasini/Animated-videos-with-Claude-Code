@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: five-ideas-new-short
+expected_outcome: |
+  Five original explainer ideas for the channel, each with a result-first hook line (the strange result
+  in the first 5-7 words), an odd concrete detail, the real mechanism in one sentence, two possible
+  places from the set kit or new sets, and a hook type. Ideas avoid the reference channel's topics and
+  titles. The run stops and asks the user to pick one; it does not fact-check, write a script or create
+  files beyond (at most) idea notes.

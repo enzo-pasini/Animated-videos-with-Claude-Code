@@ -1,0 +1,583 @@
+{
+ "id": "2026-11-04-foggy-glasses",
+ "title": "Mira's Foggy Glasses",
+ "duration": 12.327,
+ "source": "faster-whisper-large-v3-turbo + script alignment",
+ "voice_file": "voice_raw.wav",
+ "words": [
+  {
+   "w": "Mira",
+   "start": 0.0,
+   "end": 0.18,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "Mira"
+  },
+  {
+   "w": "walks",
+   "start": 0.18,
+   "end": 0.4,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "walks"
+  },
+  {
+   "w": "from",
+   "start": 0.4,
+   "end": 0.54,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "from"
+  },
+  {
+   "w": "the",
+   "start": 0.54,
+   "end": 0.62,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "cold",
+   "start": 0.62,
+   "end": 0.8,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "cold"
+  },
+  {
+   "w": "night",
+   "start": 0.8,
+   "end": 0.94,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "night"
+  },
+  {
+   "w": "into",
+   "start": 0.94,
+   "end": 1.1,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "into"
+  },
+  {
+   "w": "the",
+   "start": 1.1,
+   "end": 1.22,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "warm",
+   "start": 1.22,
+   "end": 1.38,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "warm"
+  },
+  {
+   "w": "workshop,",
+   "start": 1.38,
+   "end": 1.72,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "workshop,"
+  },
+  {
+   "w": "and",
+   "start": 1.94,
+   "end": 2.16,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "instantly",
+   "start": 2.16,
+   "end": 2.44,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "instantly"
+  },
+  {
+   "w": "goes",
+   "start": 2.44,
+   "end": 2.66,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "goes"
+  },
+  {
+   "w": "blind.",
+   "start": 2.66,
+   "end": 2.92,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "blind."
+  },
+  {
+   "w": "Her",
+   "start": 3.26,
+   "end": 3.66,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Her"
+  },
+  {
+   "w": "glasses",
+   "start": 3.66,
+   "end": 3.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "glasses"
+  },
+  {
+   "w": "turn",
+   "start": 3.9,
+   "end": 4.1,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "turn"
+  },
+  {
+   "w": "white",
+   "start": 4.1,
+   "end": 4.26,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "white"
+  },
+  {
+   "w": "in",
+   "start": 4.26,
+   "end": 4.38,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "a",
+   "start": 4.38,
+   "end": 4.44,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "single",
+   "start": 4.44,
+   "end": 4.62,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "single"
+  },
+  {
+   "w": "second.",
+   "start": 4.62,
+   "end": 4.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "second."
+  },
+  {
+   "w": "But",
+   "start": 5.24,
+   "end": 5.68,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "But"
+  },
+  {
+   "w": "outside,",
+   "start": 5.68,
+   "end": 5.96,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "outside,"
+  },
+  {
+   "w": "in",
+   "start": 6.16,
+   "end": 6.38,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "the",
+   "start": 6.38,
+   "end": 6.46,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "cold,",
+   "start": 6.46,
+   "end": 6.68,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "cold,"
+  },
+  {
+   "w": "they're",
+   "start": 6.9,
+   "end": 7.1,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "they're"
+  },
+  {
+   "w": "clear.",
+   "start": 7.1,
+   "end": 7.28,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "clear."
+  },
+  {
+   "w": "You",
+   "start": 7.72,
+   "end": 7.98,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "You"
+  },
+  {
+   "w": "see,",
+   "start": 7.98,
+   "end": 8.16,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "see,"
+  },
+  {
+   "w": "cold",
+   "start": 8.4,
+   "end": 8.62,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "cold"
+  },
+  {
+   "w": "lenses",
+   "start": 8.62,
+   "end": 8.86,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "lenses"
+  },
+  {
+   "w": "chill",
+   "start": 8.86,
+   "end": 9.04,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "chill"
+  },
+  {
+   "w": "warm",
+   "start": 9.04,
+   "end": 9.24,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "warm"
+  },
+  {
+   "w": "air.",
+   "start": 9.24,
+   "end": 9.42,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "air."
+  },
+  {
+   "w": "So",
+   "start": 9.72,
+   "end": 10.12,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "So"
+  },
+  {
+   "w": "its",
+   "start": 10.12,
+   "end": 10.24,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "its"
+  },
+  {
+   "w": "vapor",
+   "start": 10.24,
+   "end": 10.42,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "vapor"
+  },
+  {
+   "w": "turns",
+   "start": 10.42,
+   "end": 10.68,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "turns"
+  },
+  {
+   "w": "to",
+   "start": 10.68,
+   "end": 10.78,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "to"
+  },
+  {
+   "w": "droplets.",
+   "start": 10.78,
+   "end": 11.1,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "droplets."
+  },
+  {
+   "w": "Homemade",
+   "start": 11.68,
+   "end": 12.06,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "Homemade"
+  },
+  {
+   "w": "fog.",
+   "start": 12.06,
+   "end": 12.26,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "fog."
+  }
+ ],
+ "whisper": [
+  {
+   "w": "Mira",
+   "start": 0.0,
+   "end": 0.18
+  },
+  {
+   "w": "walks",
+   "start": 0.18,
+   "end": 0.4
+  },
+  {
+   "w": "from",
+   "start": 0.4,
+   "end": 0.54
+  },
+  {
+   "w": "the",
+   "start": 0.54,
+   "end": 0.62
+  },
+  {
+   "w": "cold",
+   "start": 0.62,
+   "end": 0.8
+  },
+  {
+   "w": "night",
+   "start": 0.8,
+   "end": 0.94
+  },
+  {
+   "w": "into",
+   "start": 0.94,
+   "end": 1.1
+  },
+  {
+   "w": "the",
+   "start": 1.1,
+   "end": 1.22
+  },
+  {
+   "w": "warm",
+   "start": 1.22,
+   "end": 1.38
+  },
+  {
+   "w": "workshop,",
+   "start": 1.38,
+   "end": 1.72
+  },
+  {
+   "w": "and",
+   "start": 1.94,
+   "end": 2.16
+  },
+  {
+   "w": "instantly",
+   "start": 2.16,
+   "end": 2.44
+  },
+  {
+   "w": "goes",
+   "start": 2.44,
+   "end": 2.66
+  },
+  {
+   "w": "blind.",
+   "start": 2.66,
+   "end": 2.92
+  },
+  {
+   "w": "Her",
+   "start": 3.26,
+   "end": 3.66
+  },
+  {
+   "w": "glasses",
+   "start": 3.66,
+   "end": 3.9
+  },
+  {
+   "w": "turn",
+   "start": 3.9,
+   "end": 4.1
+  },
+  {
+   "w": "white",
+   "start": 4.1,
+   "end": 4.26
+  },
+  {
+   "w": "in",
+   "start": 4.26,
+   "end": 4.38
+  },
+  {
+   "w": "a",
+   "start": 4.38,
+   "end": 4.44
+  },
+  {
+   "w": "single",
+   "start": 4.44,
+   "end": 4.62
+  },
+  {
+   "w": "second.",
+   "start": 4.62,
+   "end": 4.9
+  },
+  {
+   "w": "But",
+   "start": 5.24,
+   "end": 5.68
+  },
+  {
+   "w": "outside,",
+   "start": 5.68,
+   "end": 5.96
+  },
+  {
+   "w": "in",
+   "start": 6.16,
+   "end": 6.38
+  },
+  {
+   "w": "the",
+   "start": 6.38,
+   "end": 6.46
+  },
+  {
+   "w": "cold,",
+   "start": 6.46,
+   "end": 6.68
+  },
+  {
+   "w": "they're",
+   "start": 6.9,
+   "end": 7.1
+  },
+  {
+   "w": "clear.",
+   "start": 7.1,
+   "end": 7.28
+  },
+  {
+   "w": "You",
+   "start": 7.72,
+   "end": 7.98
+  },
+  {
+   "w": "see,",
+   "start": 7.98,
+   "end": 8.16
+  },
+  {
+   "w": "cold",
+   "start": 8.4,
+   "end": 8.62
+  },
+  {
+   "w": "lenses",
+   "start": 8.62,
+   "end": 8.86
+  },
+  {
+   "w": "chill",
+   "start": 8.86,
+   "end": 9.04
+  },
+  {
+   "w": "warm",
+   "start": 9.04,
+   "end": 9.24
+  },
+  {
+   "w": "air.",
+   "start": 9.24,
+   "end": 9.42
+  },
+  {
+   "w": "So",
+   "start": 9.72,
+   "end": 10.12
+  },
+  {
+   "w": "its",
+   "start": 10.12,
+   "end": 10.24
+  },
+  {
+   "w": "vapor",
+   "start": 10.24,
+   "end": 10.42
+  },
+  {
+   "w": "turns",
+   "start": 10.42,
+   "end": 10.68
+  },
+  {
+   "w": "to",
+   "start": 10.68,
+   "end": 10.78
+  },
+  {
+   "w": "droplets.",
+   "start": 10.78,
+   "end": 11.1
+  },
+  {
+   "w": "Homemade",
+   "start": 11.68,
+   "end": 12.06
+  },
+  {
+   "w": "fog.",
+   "start": 12.06,
+   "end": 12.26
+  }
+ ]
+}

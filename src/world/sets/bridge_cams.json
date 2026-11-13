@@ -1,0 +1,17 @@
+{
+ "_about": "Planned cameras of the bridge set (the 5 cameras of the item 8 filling test, tools/vfx_tests/depth_fill_props.py). Read by tools/camera_view.py and tools/before_after.py (BUILDING.md steps 1, 6, 7). Not read by the renderer.",
+ "set": "bridge",
+ "lights": {"sign": 1},
+ "cameras": [
+  {"id": "C1", "label": "close", "target": [-10.75, 4.6, 2.2], "dir": [0.45, 0.05, 0.89], "d0": 4.7, "fov": 44, "rate": 0.13,
+   "drift": [-0.106, 0, 0], "actors": [["rifleman", [-10.0, 3.2, 2.5]]]},
+  {"id": "C2", "label": "medium", "target": [-7.8, 4.3, 0.3], "dir": [0.45, 0.05, 0.89], "d0": 7.5, "fov": 40, "rate": 0.13,
+   "drift": [-0.153, 0, 0], "actors": [["rifleman", [-7.5, 3.2, 0.9]], ["rifleman_b", [-7.5, 3.2, 0.3]], ["rifleman_c", [-8.8, 3.2, -0.3]]]},
+  {"id": "C3", "label": "wide", "target": [0.0, 4.1, 0.0], "dir": [-0.44, 0.18, 0.88], "d0": 19.2, "fov": 40, "rate": 0.06,
+   "drift": [0.45, 0, 0]},
+  {"id": "C4", "label": "reverse", "target": [5.2, 4.3, 0.3], "dir": [-0.45, 0.05, 0.89], "d0": 7.5, "fov": 40, "rate": 0.13,
+   "drift": [0.153, 0, 0], "actors": [["rifleman", [5.5, 3.2, 0.9]], ["rifleman_b", [5.5, 3.2, 0.3]], ["rifleman_c", [6.8, 3.2, -0.3]]]},
+  {"id": "C5", "label": "high", "target": [-12.6, 4.4, 0.0], "dir": [0.45, 0.36, 0.82], "d0": 9.0, "fov": 40, "rate": 0.08,
+   "drift": [-0.15, 0, 0], "actors": [["rifleman", [-12.6, 3.2, 0.2]]]}
+ ]
+}

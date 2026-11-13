@@ -1,0 +1,285 @@
+{
+  "_about": "Machine-readable copy of style_lock/locks.md (sections 1-6) + the tolerances used by tools/check_render.py. Reference ranges (p25-p75 per light kind) are NOT stored here: check_render.py computes them from references/analysis, the same way numbers_table.py does. If the look changes (e.g. the reserved brightness iteration), update this file, style_lock/frames/ and locks.md together and bump 'version' (decision D3: next is v4).",
+  "version": "v3",
+  "regress_baseline": "v4cloth",
+  "_regress_baseline": "frames tools/regress_frames.py compares with: v4cloth = v3 + the v4 character looks L1 + L3 identity head shapes (D19) + L2 3D clothing (style_lock/locks_v4.md, 2026-11-10). v4id (L1 + L3) and v4look (L1 only) = history. v3 frames stay for the look-off check",
+  "git_tag": "style-v3",
+  "locked": {
+    "format": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "codec": "h264",
+      "crf_preview": 16
+    },
+    "edit": {
+      "dissolve_frames": 8,
+      "hard_cuts_per_60s": 2,
+      "hook_shot_s": 2.0,
+      "shot_s_median": 2.4
+    },
+    "camera": {
+      "push_rate": 0.13,
+      "close_up_rate": 0.09,
+      "fast_entry": {
+        "fov_from": 70,
+        "fov_to": 44,
+        "dur_s": 0.8
+      },
+      "measured_zoom_over_set_rate": 0.78,
+      "drift_frame_widths_per_s": 0.05,
+      "roll_deg": [
+        0.5,
+        2.5
+      ],
+      "head_width_m": 0.55,
+      "head_pct_formula": "0.55 / (2 * d * tan(fov/2) * 0.5625)"
+    },
+    "framing_head_pct_of_width": {
+      "wide": [
+        11,
+        18
+      ],
+      "medium": [
+        24,
+        32
+      ],
+      "close_up_max": 51
+    },
+    "character": {
+      "height_in_heads": 3.08,
+      "head_outline_pct": 3.4,
+      "limb_pct": 5,
+      "px_per_head_texture": 480
+    },
+    "grade": {
+      "lift": {
+        "color": "#2b2350",
+        "blend": "screen",
+        "opacity": 0.55
+      },
+      "vignette": {
+        "color": "rgba(25,15,45)",
+        "opacity": 0.35
+      },
+      "tone_mapping": "Neutral",
+      "exposure": 1.0,
+      "night_exterior": "brightness(1.3) contrast(1.34) saturate(0.68)",
+      "order": "brightness -> contrast -> saturate"
+    },
+    "character_light": {
+      "ambient": "#aab6f2",
+      "ambient_strength": 0.9,
+      "warm": "#ffcf8c"
+    },
+    "world": {
+      "line_px": 2,
+      "line_color": "#20182c",
+      "blur_shot_px": 3
+    },
+    "captions": {
+      "font": "Montserrat Black 900",
+      "size_px": 72,
+      "tracking_em": -0.02,
+      "outline_px": 5,
+      "shadow": {
+        "dx": 4,
+        "dy": 3,
+        "blur": 2,
+        "opacity": 0.85
+      },
+      "center_y": 0.703
+    },
+    "audio": {
+      "lufs": -14,
+      "true_peak_dbtp": -2
+    }
+  },
+  "checks": {
+    "_levels": "fail = blocks the video; warn = look at it; skip = not measured (shot too short or not for this profile)",
+    "profiles": {
+      "episode": {
+        "duration_s": [
+          35,
+          60.5
+        ],
+        "audio": true,
+        "light_blocks": true,
+        "edit_rates": true
+      },
+      "styletest": {
+        "duration_s": [
+          11.9,
+          12.1
+        ],
+        "audio": false,
+        "light_blocks": false,
+        "edit_rates": false
+      },
+      "calibration": {
+        "duration_s": [
+          1,
+          600
+        ],
+        "audio": false,
+        "light_blocks": false,
+        "edit_rates": false
+      }
+    },
+    "format": {
+      "level": "fail"
+    },
+    "edit": {
+      "level": "warn",
+      "dissolve_frames_median": [
+        6,
+        11
+      ],
+      "hard_cuts_per_60s_max": 2.5,
+      "first_change_s": [
+        0.8,
+        2.5
+      ],
+      "changes_per_min": [
+        16,
+        23.5
+      ],
+      "shot_len_median_s": [
+        1.6,
+        3.7
+      ]
+    },
+    "camera": {
+      "level": "warn",
+      "min_shot_s": 1.0,
+      "zoom_pct_per_s": [
+        4.17,
+        27
+      ],
+      "fast_zoom_pct_per_s_max": 60,
+      "fast_share_max": 0.3,
+      "drift_w_per_s": [
+        0.023,
+        0.173
+      ],
+      "roll_deg": [
+        0.51,
+        5.11
+      ],
+      "jitter_w_max": 0.003,
+      "static_time_max": 0.15
+    },
+    "tone": {
+      "level": "warn",
+      "min_shot_s": 0.5,
+      "metrics": [
+        "luma",
+        "contrast",
+        "p5",
+        "p95",
+        "sat",
+        "colorful"
+      ]
+    },
+    "light": {
+      "level": "warn",
+      "needs_warm_and_cool": true,
+      "switches": [
+        2,
+        6
+      ]
+    },
+    "blur": {
+      "level": "warn",
+      "sigma_sharp_max_px": 1.0,
+      "blur_shot_sigma_px": 2.0,
+      "blur_shot_share": [
+        0.1,
+        0.4
+      ]
+    },
+    "captions": {
+      "level": "fail",
+      "coverage_min": 0.99,
+      "x_height_px": [
+        39,
+        42.6
+      ],
+      "center_y": [
+        0.698,
+        0.71
+      ],
+      "center_x": [
+        0.49,
+        0.51
+      ],
+      "outline_up_px": [
+        5,
+        7
+      ],
+      "shadow_down_px": [
+        9,
+        14
+      ],
+      "shadow_right_px": [
+        11,
+        15
+      ],
+      "one_word_share": [
+        0.5,
+        0.85
+      ],
+      "four_plus_words_max": 0
+    },
+    "sync": {
+      "level": "fail",
+      "max_error_frames": 1
+    },
+    "audio": {
+      "level": "fail",
+      "lufs": [
+        -15,
+        -13
+      ],
+      "true_peak_max_dbtp": -1.5
+    }
+  },
+  "accepted_deviations": [
+    {
+      "profile": "styletest",
+      "shot_t": 0.0,
+      "metric": "colorful",
+      "why": "locks.md §8: colorfulness shots 1 and 4 (53-54)"
+    },
+    {
+      "profile": "styletest",
+      "shot_t": 2.27,
+      "metric": "p95",
+      "why": "locks.md §8: shot 2 p95 158"
+    },
+    {
+      "profile": "styletest",
+      "shot_t": 2.27,
+      "metric": "sat",
+      "why": "locks.md §8: shot 2 saturation 0.61"
+    },
+    {
+      "profile": "styletest",
+      "shot_t": 2.27,
+      "metric": "roll",
+      "why": "locks.md §8: shot 2 roll 0.5"
+    },
+    {
+      "profile": "styletest",
+      "shot_t": 6.73,
+      "metric": "colorful",
+      "why": "locks.md §8: colorfulness shots 1 and 4 (53-54)"
+    },
+    {
+      "profile": "styletest",
+      "shot_t": 6.73,
+      "metric": "contrast",
+      "why": "locks.md §8: contrast of lit shots 54-60"
+    }
+  ]
+}

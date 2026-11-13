@@ -1,0 +1,163 @@
+{
+ "_about": "Data of the lena_bedroom set (Lena's bedroom in an old house at night (bed, bedside lamp, window with a dying plant, door)), light preset warmInterior. Made by tools/new_set.py from the indoor base. Read by tools/build_props.py (marks, front), src/world/sets/LenaBedroom.tsx (room), tools/set_review.py (review). Marks = feet positions (m). The room is closed (4 walls); the cameras sit inside it, usually on the +z side looking to -z.",
+ "id": "lena_bedroom",
+ "light_preset": "warmInterior",
+ "light_kind": "warm",
+ "front": [
+  0,
+  0,
+  1
+ ],
+ "room": {
+  "x0": -2.5,
+  "x1": 2.5,
+  "zBack": -2.2,
+  "zFront": 2.3,
+  "height": 2.7
+ },
+ "marks": {
+  "bed": [
+   -1.2,
+   -0.215,
+   -1.5
+  ],
+  "bed_foot": [
+   -1.2,
+   0.0,
+   0.45
+  ],
+  "door": [
+   1.75,
+   0.0,
+   0.75
+  ],
+  "window": [
+   1.0,
+   0.0,
+   -1.35
+  ],
+  "center": [
+   0.3,
+   0.0,
+   0.1
+  ]
+ },
+ "lights": {
+  "lamp": "bedside lamp (0 = off, 1 = on; default 1)",
+  "plant": "houseplant (0 = healthy, 1 = dying; default 0)",
+  "sitter": "someone sits up in bed at mark bed (1 = lap mound + legs under the blanket, default; 0 = empty bed)"
+ },
+ "camera_bounds": {
+  "x": [
+   -2.3,
+   2.3
+  ],
+  "y": [
+   0.3,
+   2.5
+  ],
+  "z": [
+   -2.0,
+   2.1
+  ]
+ },
+ "_camera_bounds": "box the camera must stay inside (walls, ceiling); presets shorten their distance to fit",
+ "review": {
+  "_about": "tools/set_review.py: sun = the locked warmInterior key light, shadow_size = its locked box; the sweep's center/radius; points = the room's top corners (add big furniture)",
+  "sun": [
+   -3,
+   6,
+   5
+  ],
+  "shadow_size": 12,
+  "center": [
+   0.0,
+   1.2,
+   -0.4
+  ],
+  "radius": 2.0,
+  "lights": {
+   "lamp": [
+    [
+     "f:0",
+     1
+    ]
+   ],
+   "plant": [
+    [
+     "f:0",
+     0
+    ]
+   ],
+   "sitter": [
+    [
+     "f:0",
+     1
+    ]
+   ]
+  },
+  "points": {
+   "corner -2.5 -2.2": [
+    -2.5,
+    2.7,
+    -2.2
+   ],
+   "corner -2.5 +2.3": [
+    -2.5,
+    2.7,
+    2.3
+   ],
+   "corner +2.5 -2.2": [
+    2.5,
+    2.7,
+    -2.2
+   ],
+   "corner +2.5 +2.3": [
+    2.5,
+    2.7,
+    2.3
+   ],
+   "bed head": [
+    -1.2,
+    1.08,
+    -2.1
+   ],
+   "bed foot": [
+    -1.2,
+    0.6,
+    0.05
+   ],
+   "lamp": [
+    -0.38,
+    0.98,
+    -1.9
+   ],
+   "plant": [
+    1.4,
+    1.6,
+    -2.05
+   ],
+   "door top": [
+    2.47,
+    2.1,
+    0.75
+   ],
+   "toy chest": [
+    1.85,
+    0.5,
+    1.6
+   ]
+  }
+ },
+ "base": {
+  "template": "indoor",
+  "light": "interior",
+  "room": [
+   5.0,
+   4.5,
+   2.7
+  ],
+  "view": "night",
+  "made": "2026-11-12"
+ }
+}

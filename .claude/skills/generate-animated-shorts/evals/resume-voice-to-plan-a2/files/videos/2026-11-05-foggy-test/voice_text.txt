@@ -1,0 +1,8 @@
+# ElevenLabs text — paste only the lines below the notes.
+# Speed: about 1.0 (target pace ≈ 3.7 words/s; first sentence a little faster). PIPELINE TEST: made with the Windows test voice (D6).
+Mira walks from the cold night into the warm workshop, and instantly goes blind.
+Her glasses turn white in a single second.
+But outside, in the cold, they're clear.
+You see, cold lenses chill warm air.
+So its vapor turns to droplets.
+Homemade fog.

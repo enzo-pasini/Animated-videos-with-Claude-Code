@@ -1,0 +1,2399 @@
+{
+ "id": "2026-11-12-furnace-ghosts",
+ "title": "The Ghosts From the Furnace",
+ "duration": 53.321,
+ "source": "faster-whisper-large-v3-turbo + script alignment",
+ "voice_file": "voice_raw.wav",
+ "tempo": 1.11,
+ "words": [
+  {
+   "w": "Lena's",
+   "start": 0.0,
+   "end": 0.34,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "Lena's"
+  },
+  {
+   "w": "ghosts",
+   "start": 0.34,
+   "end": 0.62,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "ghosts"
+  },
+  {
+   "w": "were",
+   "start": 0.62,
+   "end": 0.78,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "were"
+  },
+  {
+   "w": "stopped",
+   "start": 0.78,
+   "end": 1.02,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "stopped"
+  },
+  {
+   "w": "by",
+   "start": 1.02,
+   "end": 1.18,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "by"
+  },
+  {
+   "w": "a",
+   "start": 1.18,
+   "end": 1.3,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "furnace",
+   "start": 1.3,
+   "end": 1.6,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "furnace"
+  },
+  {
+   "w": "repairman.",
+   "start": 1.6,
+   "end": 2.1,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "repairman."
+  },
+  {
+   "w": "It",
+   "start": 2.34,
+   "end": 2.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "It"
+  },
+  {
+   "w": "started",
+   "start": 2.64,
+   "end": 2.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "started"
+  },
+  {
+   "w": "the",
+   "start": 2.92,
+   "end": 3.04,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "week",
+   "start": 3.04,
+   "end": 3.18,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "week"
+  },
+  {
+   "w": "her",
+   "start": 3.18,
+   "end": 3.34,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "her"
+  },
+  {
+   "w": "family",
+   "start": 3.34,
+   "end": 3.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "family"
+  },
+  {
+   "w": "moved",
+   "start": 3.64,
+   "end": 4.02,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "moved"
+  },
+  {
+   "w": "into",
+   "start": 4.02,
+   "end": 4.2,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "into"
+  },
+  {
+   "w": "the",
+   "start": 4.2,
+   "end": 4.32,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "old",
+   "start": 4.32,
+   "end": 4.48,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "old"
+  },
+  {
+   "w": "house.",
+   "start": 4.48,
+   "end": 4.84,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "house."
+  },
+  {
+   "w": "At",
+   "start": 5.26,
+   "end": 5.4,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "At"
+  },
+  {
+   "w": "night,",
+   "start": 5.4,
+   "end": 5.62,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "night,"
+  },
+  {
+   "w": "Lena",
+   "start": 5.84,
+   "end": 6.02,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Lena"
+  },
+  {
+   "w": "heard",
+   "start": 6.02,
+   "end": 6.26,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "heard"
+  },
+  {
+   "w": "slow",
+   "start": 6.26,
+   "end": 6.5,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "slow"
+  },
+  {
+   "w": "footsteps",
+   "start": 6.5,
+   "end": 6.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "footsteps"
+  },
+  {
+   "w": "upstairs,",
+   "start": 6.92,
+   "end": 7.38,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "upstairs,"
+  },
+  {
+   "w": "where",
+   "start": 7.6,
+   "end": 7.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "where"
+  },
+  {
+   "w": "nobody",
+   "start": 7.64,
+   "end": 7.88,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "nobody"
+  },
+  {
+   "w": "was.",
+   "start": 7.88,
+   "end": 8.26,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "was."
+  },
+  {
+   "w": "Then",
+   "start": 8.54,
+   "end": 8.8,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Then"
+  },
+  {
+   "w": "her",
+   "start": 8.8,
+   "end": 8.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "her"
+  },
+  {
+   "w": "mother",
+   "start": 8.92,
+   "end": 9.12,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "mother"
+  },
+  {
+   "w": "woke",
+   "start": 9.12,
+   "end": 9.34,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "woke"
+  },
+  {
+   "w": "to",
+   "start": 9.34,
+   "end": 9.48,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "to"
+  },
+  {
+   "w": "a",
+   "start": 9.48,
+   "end": 9.58,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "man",
+   "start": 9.58,
+   "end": 9.76,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "man"
+  },
+  {
+   "w": "in",
+   "start": 9.76,
+   "end": 9.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "a",
+   "start": 9.9,
+   "end": 9.98,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "dark",
+   "start": 9.98,
+   "end": 10.16,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "dark"
+  },
+  {
+   "w": "coat",
+   "start": 10.16,
+   "end": 10.42,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "coat"
+  },
+  {
+   "w": "standing",
+   "start": 10.42,
+   "end": 10.72,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "standing"
+  },
+  {
+   "w": "at",
+   "start": 10.72,
+   "end": 10.88,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "at"
+  },
+  {
+   "w": "the",
+   "start": 10.88,
+   "end": 10.96,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "foot",
+   "start": 10.96,
+   "end": 11.08,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "foot"
+  },
+  {
+   "w": "of",
+   "start": 11.08,
+   "end": 11.18,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "of"
+  },
+  {
+   "w": "her",
+   "start": 11.18,
+   "end": 11.26,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "her"
+  },
+  {
+   "w": "bed.",
+   "start": 11.26,
+   "end": 11.52,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "bed."
+  },
+  {
+   "w": "Every",
+   "start": 11.92,
+   "end": 12.22,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Every"
+  },
+  {
+   "w": "morning,",
+   "start": 12.22,
+   "end": 12.5,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "morning,"
+  },
+  {
+   "w": "the",
+   "start": 12.6,
+   "end": 12.68,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "whole",
+   "start": 12.68,
+   "end": 12.86,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "whole"
+  },
+  {
+   "w": "family",
+   "start": 12.86,
+   "end": 13.18,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "family"
+  },
+  {
+   "w": "woke",
+   "start": 13.18,
+   "end": 13.4,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "woke"
+  },
+  {
+   "w": "up",
+   "start": 13.4,
+   "end": 13.54,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "up"
+  },
+  {
+   "w": "tired,",
+   "start": 13.54,
+   "end": 13.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "tired,"
+  },
+  {
+   "w": "with",
+   "start": 14.12,
+   "end": 14.22,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "with"
+  },
+  {
+   "w": "the",
+   "start": 14.22,
+   "end": 14.36,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "same",
+   "start": 14.36,
+   "end": 14.6,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "same"
+  },
+  {
+   "w": "dull",
+   "start": 14.6,
+   "end": 14.82,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "dull"
+  },
+  {
+   "w": "headache.",
+   "start": 14.82,
+   "end": 15.22,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "headache."
+  },
+  {
+   "w": "Even",
+   "start": 15.44,
+   "end": 15.86,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Even"
+  },
+  {
+   "w": "the",
+   "start": 15.86,
+   "end": 16.0,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "houseplants",
+   "start": 16.0,
+   "end": 16.46,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "houseplants"
+  },
+  {
+   "w": "started",
+   "start": 16.46,
+   "end": 16.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "started"
+  },
+  {
+   "w": "dying.",
+   "start": 16.78,
+   "end": 17.12,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "dying."
+  },
+  {
+   "w": "So",
+   "start": 17.4,
+   "end": 17.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "So"
+  },
+  {
+   "w": "her",
+   "start": 17.74,
+   "end": 17.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "her"
+  },
+  {
+   "w": "dad",
+   "start": 17.9,
+   "end": 18.14,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "dad"
+  },
+  {
+   "w": "brought",
+   "start": 18.14,
+   "end": 18.4,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "brought"
+  },
+  {
+   "w": "in",
+   "start": 18.4,
+   "end": 18.54,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "a",
+   "start": 18.54,
+   "end": 18.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "priest,",
+   "start": 18.64,
+   "end": 18.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "priest,"
+  },
+  {
+   "w": "who",
+   "start": 19.06,
+   "end": 19.2,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "who"
+  },
+  {
+   "w": "blessed",
+   "start": 19.2,
+   "end": 19.46,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "blessed"
+  },
+  {
+   "w": "every",
+   "start": 19.46,
+   "end": 19.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "every"
+  },
+  {
+   "w": "room.",
+   "start": 19.78,
+   "end": 20.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "room."
+  },
+  {
+   "w": "That",
+   "start": 20.4,
+   "end": 20.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "That"
+  },
+  {
+   "w": "night,",
+   "start": 20.74,
+   "end": 20.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "night,"
+  },
+  {
+   "w": "the",
+   "start": 21.04,
+   "end": 21.12,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "footsteps",
+   "start": 21.12,
+   "end": 21.48,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "footsteps"
+  },
+  {
+   "w": "came",
+   "start": 21.48,
+   "end": 21.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "came"
+  },
+  {
+   "w": "right",
+   "start": 21.78,
+   "end": 21.98,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "right"
+  },
+  {
+   "w": "back,",
+   "start": 21.98,
+   "end": 22.34,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "back,"
+  },
+  {
+   "w": "louder",
+   "start": 22.48,
+   "end": 22.76,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "louder"
+  },
+  {
+   "w": "than",
+   "start": 22.76,
+   "end": 22.96,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "than"
+  },
+  {
+   "w": "before.",
+   "start": 22.96,
+   "end": 23.3,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "before."
+  },
+  {
+   "w": "Lena",
+   "start": 23.94,
+   "end": 24.38,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Lena"
+  },
+  {
+   "w": "started",
+   "start": 24.38,
+   "end": 24.7,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "started"
+  },
+  {
+   "w": "sleeping",
+   "start": 24.7,
+   "end": 25.04,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "sleeping"
+  },
+  {
+   "w": "with",
+   "start": 25.04,
+   "end": 25.2,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "with"
+  },
+  {
+   "w": "the",
+   "start": 25.2,
+   "end": 25.3,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "lights",
+   "start": 25.3,
+   "end": 25.52,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "lights"
+  },
+  {
+   "w": "on.",
+   "start": 25.52,
+   "end": 25.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "on."
+  },
+  {
+   "w": "But",
+   "start": 25.94,
+   "end": 26.28,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "But"
+  },
+  {
+   "w": "Lena",
+   "start": 26.28,
+   "end": 26.46,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "Lena"
+  },
+  {
+   "w": "noticed",
+   "start": 26.46,
+   "end": 26.8,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "noticed"
+  },
+  {
+   "w": "something",
+   "start": 26.8,
+   "end": 27.06,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "something"
+  },
+  {
+   "w": "odd:",
+   "start": 27.06,
+   "end": 27.38,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "odd."
+  },
+  {
+   "w": "the",
+   "start": 27.62,
+   "end": 27.78,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "The"
+  },
+  {
+   "w": "ghosts",
+   "start": 27.78,
+   "end": 28.02,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "ghosts"
+  },
+  {
+   "w": "only",
+   "start": 28.02,
+   "end": 28.28,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "only"
+  },
+  {
+   "w": "came",
+   "start": 28.28,
+   "end": 28.48,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "came"
+  },
+  {
+   "w": "on",
+   "start": 28.48,
+   "end": 28.64,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "on"
+  },
+  {
+   "w": "cold",
+   "start": 28.64,
+   "end": 28.9,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "cold"
+  },
+  {
+   "w": "nights,",
+   "start": 28.9,
+   "end": 29.12,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "nights,"
+  },
+  {
+   "w": "when",
+   "start": 29.18,
+   "end": 29.32,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "when"
+  },
+  {
+   "w": "the",
+   "start": 29.32,
+   "end": 29.44,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "furnace",
+   "start": 29.44,
+   "end": 29.68,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "furnace"
+  },
+  {
+   "w": "was",
+   "start": 29.68,
+   "end": 29.88,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "was"
+  },
+  {
+   "w": "burning.",
+   "start": 29.88,
+   "end": 29.98,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "burning."
+  },
+  {
+   "w": "On",
+   "start": 29.98,
+   "end": 30.76,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "On"
+  },
+  {
+   "w": "warm",
+   "start": 30.76,
+   "end": 31.0,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "warm"
+  },
+  {
+   "w": "nights,",
+   "start": 31.0,
+   "end": 31.24,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "nights,"
+  },
+  {
+   "w": "the",
+   "start": 31.4,
+   "end": 31.4,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "house",
+   "start": 31.4,
+   "end": 31.58,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "house"
+  },
+  {
+   "w": "was",
+   "start": 31.58,
+   "end": 31.76,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "was"
+  },
+  {
+   "w": "quiet,",
+   "start": 31.76,
+   "end": 32.08,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "quiet,"
+  },
+  {
+   "w": "and",
+   "start": 32.24,
+   "end": 32.3,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "nobody",
+   "start": 32.3,
+   "end": 32.56,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "nobody"
+  },
+  {
+   "w": "had",
+   "start": 32.56,
+   "end": 32.76,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "had"
+  },
+  {
+   "w": "a",
+   "start": 32.76,
+   "end": 32.84,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "headache.",
+   "start": 32.84,
+   "end": 33.12,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "headache."
+  },
+  {
+   "w": "You",
+   "start": 33.4,
+   "end": 33.66,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "You"
+  },
+  {
+   "w": "see,",
+   "start": 33.66,
+   "end": 33.78,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "see,"
+  },
+  {
+   "w": "the",
+   "start": 33.86,
+   "end": 33.92,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "old",
+   "start": 33.92,
+   "end": 34.1,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "old"
+  },
+  {
+   "w": "furnace",
+   "start": 34.1,
+   "end": 34.36,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "furnace"
+  },
+  {
+   "w": "was",
+   "start": 34.36,
+   "end": 34.54,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "was"
+  },
+  {
+   "w": "broken,",
+   "start": 34.54,
+   "end": 34.84,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "broken,"
+  },
+  {
+   "w": "leaking",
+   "start": 34.98,
+   "end": 35.22,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "leaking"
+  },
+  {
+   "w": "its",
+   "start": 35.22,
+   "end": 35.42,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "its"
+  },
+  {
+   "w": "fumes",
+   "start": 35.42,
+   "end": 35.72,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "fumes"
+  },
+  {
+   "w": "into",
+   "start": 35.72,
+   "end": 35.86,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "into"
+  },
+  {
+   "w": "the",
+   "start": 35.86,
+   "end": 35.96,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "rooms.",
+   "start": 35.96,
+   "end": 36.3,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "rooms."
+  },
+  {
+   "w": "Carbon",
+   "start": 36.6,
+   "end": 37.1,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "Carbon"
+  },
+  {
+   "w": "monoxide:",
+   "start": 37.1,
+   "end": 37.68,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "monoxide,"
+  },
+  {
+   "w": "no",
+   "start": 37.76,
+   "end": 38.06,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "no"
+  },
+  {
+   "w": "color,",
+   "start": 38.06,
+   "end": 38.34,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "color,"
+  },
+  {
+   "w": "no",
+   "start": 38.42,
+   "end": 38.54,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "no"
+  },
+  {
+   "w": "smell.",
+   "start": 38.54,
+   "end": 38.86,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "smell."
+  },
+  {
+   "w": "It",
+   "start": 39.06,
+   "end": 39.32,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "It"
+  },
+  {
+   "w": "grabs",
+   "start": 39.32,
+   "end": 39.62,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "grabs"
+  },
+  {
+   "w": "the",
+   "start": 39.62,
+   "end": 39.74,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "blood's",
+   "start": 39.74,
+   "end": 40.02,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "blood's"
+  },
+  {
+   "w": "oxygen",
+   "start": 40.02,
+   "end": 40.38,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "oxygen"
+  },
+  {
+   "w": "carriers",
+   "start": 40.38,
+   "end": 40.84,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "carriers"
+  },
+  {
+   "w": "about",
+   "start": 40.84,
+   "end": 41.1,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "about"
+  },
+  {
+   "w": "two",
+   "start": 41.1,
+   "end": 41.48,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "200"
+  },
+  {
+   "w": "hundred",
+   "start": 41.1,
+   "end": 41.48,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "200"
+  },
+  {
+   "w": "times",
+   "start": 41.48,
+   "end": 41.82,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "times"
+  },
+  {
+   "w": "harder",
+   "start": 41.82,
+   "end": 42.22,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "harder"
+  },
+  {
+   "w": "than",
+   "start": 42.22,
+   "end": 42.4,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "than"
+  },
+  {
+   "w": "oxygen",
+   "start": 42.4,
+   "end": 42.76,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "oxygen"
+  },
+  {
+   "w": "does.",
+   "start": 42.76,
+   "end": 43.08,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "does."
+  },
+  {
+   "w": "So",
+   "start": 43.24,
+   "end": 43.6,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "So"
+  },
+  {
+   "w": "the",
+   "start": 43.6,
+   "end": 43.68,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "brain",
+   "start": 43.68,
+   "end": 43.92,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "brain"
+  },
+  {
+   "w": "starves,",
+   "start": 43.92,
+   "end": 44.44,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "starves,"
+  },
+  {
+   "w": "and",
+   "start": 44.46,
+   "end": 44.66,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "a",
+   "start": 44.66,
+   "end": 44.76,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "starving",
+   "start": 44.76,
+   "end": 45.04,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "starving"
+  },
+  {
+   "w": "brain",
+   "start": 45.04,
+   "end": 45.32,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "brain"
+  },
+  {
+   "w": "can",
+   "start": 45.32,
+   "end": 45.52,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "can"
+  },
+  {
+   "w": "see",
+   "start": 45.52,
+   "end": 45.74,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "see"
+  },
+  {
+   "w": "ghosts.",
+   "start": 45.74,
+   "end": 46.08,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "ghosts."
+  },
+  {
+   "w": "One",
+   "start": 46.5,
+   "end": 46.88,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "One"
+  },
+  {
+   "w": "repair",
+   "start": 46.88,
+   "end": 47.2,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "repair"
+  },
+  {
+   "w": "later,",
+   "start": 47.2,
+   "end": 47.48,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "later,"
+  },
+  {
+   "w": "the",
+   "start": 47.66,
+   "end": 47.78,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "ghosts",
+   "start": 47.78,
+   "end": 48.06,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "ghosts"
+  },
+  {
+   "w": "were",
+   "start": 48.06,
+   "end": 48.22,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "were"
+  },
+  {
+   "w": "gone.",
+   "start": 48.22,
+   "end": 48.46,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "gone."
+  },
+  {
+   "w": "In",
+   "start": 48.92,
+   "end": 49.4,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "In"
+  },
+  {
+   "w": "1921,",
+   "start": 49.4,
+   "end": 50.14,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "1921,"
+  },
+  {
+   "w": "a",
+   "start": 50.4,
+   "end": 50.72,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "doctor",
+   "start": 50.72,
+   "end": 51.02,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "doctor"
+  },
+  {
+   "w": "reported",
+   "start": 51.02,
+   "end": 51.48,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "reported"
+  },
+  {
+   "w": "a",
+   "start": 51.48,
+   "end": 51.62,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "real",
+   "start": 51.62,
+   "end": 51.8,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "real"
+  },
+  {
+   "w": "family",
+   "start": 51.8,
+   "end": 52.26,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "family,"
+  },
+  {
+   "w": "just",
+   "start": 52.36,
+   "end": 52.62,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "just"
+  },
+  {
+   "w": "like",
+   "start": 52.62,
+   "end": 52.82,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "like"
+  },
+  {
+   "w": "Lena's.",
+   "start": 52.82,
+   "end": 53.3,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "Lena's."
+  }
+ ],
+ "whisper": [
+  {
+   "w": "Lena's",
+   "start": 0.0,
+   "end": 0.34
+  },
+  {
+   "w": "ghosts",
+   "start": 0.34,
+   "end": 0.62
+  },
+  {
+   "w": "were",
+   "start": 0.62,
+   "end": 0.78
+  },
+  {
+   "w": "stopped",
+   "start": 0.78,
+   "end": 1.02
+  },
+  {
+   "w": "by",
+   "start": 1.02,
+   "end": 1.18
+  },
+  {
+   "w": "a",
+   "start": 1.18,
+   "end": 1.3
+  },
+  {
+   "w": "furnace",
+   "start": 1.3,
+   "end": 1.6
+  },
+  {
+   "w": "repairman.",
+   "start": 1.6,
+   "end": 2.1
+  },
+  {
+   "w": "It",
+   "start": 2.34,
+   "end": 2.64
+  },
+  {
+   "w": "started",
+   "start": 2.64,
+   "end": 2.92
+  },
+  {
+   "w": "the",
+   "start": 2.92,
+   "end": 3.04
+  },
+  {
+   "w": "week",
+   "start": 3.04,
+   "end": 3.18
+  },
+  {
+   "w": "her",
+   "start": 3.18,
+   "end": 3.34
+  },
+  {
+   "w": "family",
+   "start": 3.34,
+   "end": 3.64
+  },
+  {
+   "w": "moved",
+   "start": 3.64,
+   "end": 4.02
+  },
+  {
+   "w": "into",
+   "start": 4.02,
+   "end": 4.2
+  },
+  {
+   "w": "the",
+   "start": 4.2,
+   "end": 4.32
+  },
+  {
+   "w": "old",
+   "start": 4.32,
+   "end": 4.48
+  },
+  {
+   "w": "house.",
+   "start": 4.48,
+   "end": 4.84
+  },
+  {
+   "w": "At",
+   "start": 5.26,
+   "end": 5.4
+  },
+  {
+   "w": "night,",
+   "start": 5.4,
+   "end": 5.62
+  },
+  {
+   "w": "Lena",
+   "start": 5.84,
+   "end": 6.02
+  },
+  {
+   "w": "heard",
+   "start": 6.02,
+   "end": 6.26
+  },
+  {
+   "w": "slow",
+   "start": 6.26,
+   "end": 6.5
+  },
+  {
+   "w": "footsteps",
+   "start": 6.5,
+   "end": 6.92
+  },
+  {
+   "w": "upstairs,",
+   "start": 6.92,
+   "end": 7.38
+  },
+  {
+   "w": "where",
+   "start": 7.6,
+   "end": 7.64
+  },
+  {
+   "w": "nobody",
+   "start": 7.64,
+   "end": 7.88
+  },
+  {
+   "w": "was.",
+   "start": 7.88,
+   "end": 8.26
+  },
+  {
+   "w": "Then",
+   "start": 8.54,
+   "end": 8.8
+  },
+  {
+   "w": "her",
+   "start": 8.8,
+   "end": 8.92
+  },
+  {
+   "w": "mother",
+   "start": 8.92,
+   "end": 9.12
+  },
+  {
+   "w": "woke",
+   "start": 9.12,
+   "end": 9.34
+  },
+  {
+   "w": "to",
+   "start": 9.34,
+   "end": 9.48
+  },
+  {
+   "w": "a",
+   "start": 9.48,
+   "end": 9.58
+  },
+  {
+   "w": "man",
+   "start": 9.58,
+   "end": 9.76
+  },
+  {
+   "w": "in",
+   "start": 9.76,
+   "end": 9.9
+  },
+  {
+   "w": "a",
+   "start": 9.9,
+   "end": 9.98
+  },
+  {
+   "w": "dark",
+   "start": 9.98,
+   "end": 10.16
+  },
+  {
+   "w": "coat",
+   "start": 10.16,
+   "end": 10.42
+  },
+  {
+   "w": "standing",
+   "start": 10.42,
+   "end": 10.72
+  },
+  {
+   "w": "at",
+   "start": 10.72,
+   "end": 10.88
+  },
+  {
+   "w": "the",
+   "start": 10.88,
+   "end": 10.96
+  },
+  {
+   "w": "foot",
+   "start": 10.96,
+   "end": 11.08
+  },
+  {
+   "w": "of",
+   "start": 11.08,
+   "end": 11.18
+  },
+  {
+   "w": "her",
+   "start": 11.18,
+   "end": 11.26
+  },
+  {
+   "w": "bed.",
+   "start": 11.26,
+   "end": 11.52
+  },
+  {
+   "w": "Every",
+   "start": 11.92,
+   "end": 12.22
+  },
+  {
+   "w": "morning,",
+   "start": 12.22,
+   "end": 12.5
+  },
+  {
+   "w": "the",
+   "start": 12.6,
+   "end": 12.68
+  },
+  {
+   "w": "whole",
+   "start": 12.68,
+   "end": 12.86
+  },
+  {
+   "w": "family",
+   "start": 12.86,
+   "end": 13.18
+  },
+  {
+   "w": "woke",
+   "start": 13.18,
+   "end": 13.4
+  },
+  {
+   "w": "up",
+   "start": 13.4,
+   "end": 13.54
+  },
+  {
+   "w": "tired,",
+   "start": 13.54,
+   "end": 13.9
+  },
+  {
+   "w": "with",
+   "start": 14.12,
+   "end": 14.22
+  },
+  {
+   "w": "the",
+   "start": 14.22,
+   "end": 14.36
+  },
+  {
+   "w": "same",
+   "start": 14.36,
+   "end": 14.6
+  },
+  {
+   "w": "dull",
+   "start": 14.6,
+   "end": 14.82
+  },
+  {
+   "w": "headache.",
+   "start": 14.82,
+   "end": 15.22
+  },
+  {
+   "w": "Even",
+   "start": 15.44,
+   "end": 15.86
+  },
+  {
+   "w": "the",
+   "start": 15.86,
+   "end": 16.0
+  },
+  {
+   "w": "houseplants",
+   "start": 16.0,
+   "end": 16.46
+  },
+  {
+   "w": "started",
+   "start": 16.46,
+   "end": 16.78
+  },
+  {
+   "w": "dying.",
+   "start": 16.78,
+   "end": 17.12
+  },
+  {
+   "w": "So",
+   "start": 17.4,
+   "end": 17.74
+  },
+  {
+   "w": "her",
+   "start": 17.74,
+   "end": 17.9
+  },
+  {
+   "w": "dad",
+   "start": 17.9,
+   "end": 18.14
+  },
+  {
+   "w": "brought",
+   "start": 18.14,
+   "end": 18.4
+  },
+  {
+   "w": "in",
+   "start": 18.4,
+   "end": 18.54
+  },
+  {
+   "w": "a",
+   "start": 18.54,
+   "end": 18.64
+  },
+  {
+   "w": "priest,",
+   "start": 18.64,
+   "end": 18.92
+  },
+  {
+   "w": "who",
+   "start": 19.06,
+   "end": 19.2
+  },
+  {
+   "w": "blessed",
+   "start": 19.2,
+   "end": 19.46
+  },
+  {
+   "w": "every",
+   "start": 19.46,
+   "end": 19.78
+  },
+  {
+   "w": "room.",
+   "start": 19.78,
+   "end": 20.06
+  },
+  {
+   "w": "That",
+   "start": 20.4,
+   "end": 20.74
+  },
+  {
+   "w": "night,",
+   "start": 20.74,
+   "end": 20.92
+  },
+  {
+   "w": "the",
+   "start": 21.04,
+   "end": 21.12
+  },
+  {
+   "w": "footsteps",
+   "start": 21.12,
+   "end": 21.48
+  },
+  {
+   "w": "came",
+   "start": 21.48,
+   "end": 21.78
+  },
+  {
+   "w": "right",
+   "start": 21.78,
+   "end": 21.98
+  },
+  {
+   "w": "back,",
+   "start": 21.98,
+   "end": 22.34
+  },
+  {
+   "w": "louder",
+   "start": 22.48,
+   "end": 22.76
+  },
+  {
+   "w": "than",
+   "start": 22.76,
+   "end": 22.96
+  },
+  {
+   "w": "before.",
+   "start": 22.96,
+   "end": 23.3
+  },
+  {
+   "w": "Lena",
+   "start": 23.94,
+   "end": 24.38
+  },
+  {
+   "w": "started",
+   "start": 24.38,
+   "end": 24.7
+  },
+  {
+   "w": "sleeping",
+   "start": 24.7,
+   "end": 25.04
+  },
+  {
+   "w": "with",
+   "start": 25.04,
+   "end": 25.2
+  },
+  {
+   "w": "the",
+   "start": 25.2,
+   "end": 25.3
+  },
+  {
+   "w": "lights",
+   "start": 25.3,
+   "end": 25.52
+  },
+  {
+   "w": "on.",
+   "start": 25.52,
+   "end": 25.74
+  },
+  {
+   "w": "But",
+   "start": 25.94,
+   "end": 26.28
+  },
+  {
+   "w": "Lena",
+   "start": 26.28,
+   "end": 26.46
+  },
+  {
+   "w": "noticed",
+   "start": 26.46,
+   "end": 26.8
+  },
+  {
+   "w": "something",
+   "start": 26.8,
+   "end": 27.06
+  },
+  {
+   "w": "odd.",
+   "start": 27.06,
+   "end": 27.38
+  },
+  {
+   "w": "The",
+   "start": 27.62,
+   "end": 27.78
+  },
+  {
+   "w": "ghosts",
+   "start": 27.78,
+   "end": 28.02
+  },
+  {
+   "w": "only",
+   "start": 28.02,
+   "end": 28.28
+  },
+  {
+   "w": "came",
+   "start": 28.28,
+   "end": 28.48
+  },
+  {
+   "w": "on",
+   "start": 28.48,
+   "end": 28.64
+  },
+  {
+   "w": "cold",
+   "start": 28.64,
+   "end": 28.9
+  },
+  {
+   "w": "nights,",
+   "start": 28.9,
+   "end": 29.12
+  },
+  {
+   "w": "when",
+   "start": 29.18,
+   "end": 29.32
+  },
+  {
+   "w": "the",
+   "start": 29.32,
+   "end": 29.44
+  },
+  {
+   "w": "furnace",
+   "start": 29.44,
+   "end": 29.68
+  },
+  {
+   "w": "was",
+   "start": 29.68,
+   "end": 29.88
+  },
+  {
+   "w": "burning.",
+   "start": 29.88,
+   "end": 29.98
+  },
+  {
+   "w": "On",
+   "start": 29.98,
+   "end": 30.76
+  },
+  {
+   "w": "warm",
+   "start": 30.76,
+   "end": 31.0
+  },
+  {
+   "w": "nights,",
+   "start": 31.0,
+   "end": 31.24
+  },
+  {
+   "w": "the",
+   "start": 31.4,
+   "end": 31.4
+  },
+  {
+   "w": "house",
+   "start": 31.4,
+   "end": 31.58
+  },
+  {
+   "w": "was",
+   "start": 31.58,
+   "end": 31.76
+  },
+  {
+   "w": "quiet,",
+   "start": 31.76,
+   "end": 32.08
+  },
+  {
+   "w": "and",
+   "start": 32.24,
+   "end": 32.3
+  },
+  {
+   "w": "nobody",
+   "start": 32.3,
+   "end": 32.56
+  },
+  {
+   "w": "had",
+   "start": 32.56,
+   "end": 32.76
+  },
+  {
+   "w": "a",
+   "start": 32.76,
+   "end": 32.84
+  },
+  {
+   "w": "headache.",
+   "start": 32.84,
+   "end": 33.12
+  },
+  {
+   "w": "You",
+   "start": 33.4,
+   "end": 33.66
+  },
+  {
+   "w": "see,",
+   "start": 33.66,
+   "end": 33.78
+  },
+  {
+   "w": "the",
+   "start": 33.86,
+   "end": 33.92
+  },
+  {
+   "w": "old",
+   "start": 33.92,
+   "end": 34.1
+  },
+  {
+   "w": "furnace",
+   "start": 34.1,
+   "end": 34.36
+  },
+  {
+   "w": "was",
+   "start": 34.36,
+   "end": 34.54
+  },
+  {
+   "w": "broken,",
+   "start": 34.54,
+   "end": 34.84
+  },
+  {
+   "w": "leaking",
+   "start": 34.98,
+   "end": 35.22
+  },
+  {
+   "w": "its",
+   "start": 35.22,
+   "end": 35.42
+  },
+  {
+   "w": "fumes",
+   "start": 35.42,
+   "end": 35.72
+  },
+  {
+   "w": "into",
+   "start": 35.72,
+   "end": 35.86
+  },
+  {
+   "w": "the",
+   "start": 35.86,
+   "end": 35.96
+  },
+  {
+   "w": "rooms.",
+   "start": 35.96,
+   "end": 36.3
+  },
+  {
+   "w": "Carbon",
+   "start": 36.6,
+   "end": 37.1
+  },
+  {
+   "w": "monoxide,",
+   "start": 37.1,
+   "end": 37.68
+  },
+  {
+   "w": "no",
+   "start": 37.76,
+   "end": 38.06
+  },
+  {
+   "w": "color,",
+   "start": 38.06,
+   "end": 38.34
+  },
+  {
+   "w": "no",
+   "start": 38.42,
+   "end": 38.54
+  },
+  {
+   "w": "smell.",
+   "start": 38.54,
+   "end": 38.86
+  },
+  {
+   "w": "It",
+   "start": 39.06,
+   "end": 39.32
+  },
+  {
+   "w": "grabs",
+   "start": 39.32,
+   "end": 39.62
+  },
+  {
+   "w": "the",
+   "start": 39.62,
+   "end": 39.74
+  },
+  {
+   "w": "blood's",
+   "start": 39.74,
+   "end": 40.02
+  },
+  {
+   "w": "oxygen",
+   "start": 40.02,
+   "end": 40.38
+  },
+  {
+   "w": "carriers",
+   "start": 40.38,
+   "end": 40.84
+  },
+  {
+   "w": "about",
+   "start": 40.84,
+   "end": 41.1
+  },
+  {
+   "w": "200",
+   "start": 41.1,
+   "end": 41.48
+  },
+  {
+   "w": "times",
+   "start": 41.48,
+   "end": 41.82
+  },
+  {
+   "w": "harder",
+   "start": 41.82,
+   "end": 42.22
+  },
+  {
+   "w": "than",
+   "start": 42.22,
+   "end": 42.4
+  },
+  {
+   "w": "oxygen",
+   "start": 42.4,
+   "end": 42.76
+  },
+  {
+   "w": "does.",
+   "start": 42.76,
+   "end": 43.08
+  },
+  {
+   "w": "So",
+   "start": 43.24,
+   "end": 43.6
+  },
+  {
+   "w": "the",
+   "start": 43.6,
+   "end": 43.68
+  },
+  {
+   "w": "brain",
+   "start": 43.68,
+   "end": 43.92
+  },
+  {
+   "w": "starves,",
+   "start": 43.92,
+   "end": 44.44
+  },
+  {
+   "w": "and",
+   "start": 44.46,
+   "end": 44.66
+  },
+  {
+   "w": "a",
+   "start": 44.66,
+   "end": 44.76
+  },
+  {
+   "w": "starving",
+   "start": 44.76,
+   "end": 45.04
+  },
+  {
+   "w": "brain",
+   "start": 45.04,
+   "end": 45.32
+  },
+  {
+   "w": "can",
+   "start": 45.32,
+   "end": 45.52
+  },
+  {
+   "w": "see",
+   "start": 45.52,
+   "end": 45.74
+  },
+  {
+   "w": "ghosts.",
+   "start": 45.74,
+   "end": 46.08
+  },
+  {
+   "w": "One",
+   "start": 46.5,
+   "end": 46.88
+  },
+  {
+   "w": "repair",
+   "start": 46.88,
+   "end": 47.2
+  },
+  {
+   "w": "later,",
+   "start": 47.2,
+   "end": 47.48
+  },
+  {
+   "w": "the",
+   "start": 47.66,
+   "end": 47.78
+  },
+  {
+   "w": "ghosts",
+   "start": 47.78,
+   "end": 48.06
+  },
+  {
+   "w": "were",
+   "start": 48.06,
+   "end": 48.22
+  },
+  {
+   "w": "gone.",
+   "start": 48.22,
+   "end": 48.46
+  },
+  {
+   "w": "In",
+   "start": 48.92,
+   "end": 49.4
+  },
+  {
+   "w": "1921,",
+   "start": 49.4,
+   "end": 50.14
+  },
+  {
+   "w": "a",
+   "start": 50.4,
+   "end": 50.72
+  },
+  {
+   "w": "doctor",
+   "start": 50.72,
+   "end": 51.02
+  },
+  {
+   "w": "reported",
+   "start": 51.02,
+   "end": 51.48
+  },
+  {
+   "w": "a",
+   "start": 51.48,
+   "end": 51.62
+  },
+  {
+   "w": "real",
+   "start": 51.62,
+   "end": 51.8
+  },
+  {
+   "w": "family,",
+   "start": 51.8,
+   "end": 52.26
+  },
+  {
+   "w": "just",
+   "start": 52.36,
+   "end": 52.62
+  },
+  {
+   "w": "like",
+   "start": 52.62,
+   "end": 52.82
+  },
+  {
+   "w": "Lena's.",
+   "start": 52.82,
+   "end": 53.3
+  }
+ ]
+}

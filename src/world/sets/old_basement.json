@@ -1,0 +1,186 @@
+{
+ "_about": "Data of the old_basement set (old house basement at night (iron furnace, wooden stairs, pipes, crates)), light preset warmInterior. Made by tools/new_set.py from the indoor base. Read by tools/build_props.py (marks, front), src/world/sets/OldBasement.tsx (room), tools/set_review.py (review). Marks = feet positions (m). The room is closed (4 walls); the cameras sit inside it, usually on the +z side looking to -z.",
+ "id": "old_basement",
+ "light_preset": "warmInterior",
+ "light_kind": "warm",
+ "front": [
+  0,
+  0,
+  1
+ ],
+ "room": {
+  "x0": -2.75,
+  "x1": 2.75,
+  "zBack": -2.2,
+  "zFront": 2.3,
+  "height": 2.9
+ },
+ "marks": {
+  "furnace": [
+   1.3,
+   0.0,
+   -0.3
+  ],
+  "furnace_left": [
+   -0.35,
+   0.0,
+   -0.5
+  ],
+  "stairs": [
+   -2.1,
+   0.6,
+   -0.6
+  ],
+  "stairs_foot": [
+   -1.4,
+   0.0,
+   0.7
+  ],
+  "center": [
+   0.0,
+   0.0,
+   0.6
+  ],
+  "landing": [
+   -1.95,
+   1.02,
+   -1.4
+  ]
+ },
+ "lights": {
+  "furnace": "furnace fire glow (0 = cold, 1 = burning; default 1)",
+  "bulb": "bare hanging bulb (0 = off, 1 = on; default 1)",
+  "cracked": "furnace crack visible (0 / 1; default 0)",
+  "door": "light through the door crack at the top of the stairs (0 = dark, 1 = lit; default 1)"
+ },
+ "camera_bounds": {
+  "x": [
+   -2.55,
+   2.55
+  ],
+  "y": [
+   0.3,
+   2.7
+  ],
+  "z": [
+   -2.0,
+   2.1
+  ]
+ },
+ "_camera_bounds": "box the camera must stay inside (walls, ceiling); presets shorten their distance to fit",
+ "review": {
+  "_about": "tools/set_review.py: sun = the locked warmInterior key light, shadow_size = its locked box; the sweep's center/radius; points = the room's top corners (add big furniture)",
+  "sun": [
+   -3,
+   6,
+   5
+  ],
+  "shadow_size": 12,
+  "center": [
+   0.0,
+   1.1,
+   -0.3
+  ],
+  "radius": 2.0,
+  "lights": {
+   "furnace": [
+    [
+     "f:0",
+     1
+    ]
+   ],
+   "bulb": [
+    [
+     "f:0",
+     1
+    ]
+   ],
+   "cracked": [
+    [
+     "f:0",
+     1
+    ]
+   ],
+   "door": [
+    [
+     "f:0",
+     1
+    ]
+   ]
+  },
+  "points": {
+   "corner -2.8 -2.2": [
+    -2.75,
+    2.9,
+    -2.2
+   ],
+   "corner -2.8 +2.3": [
+    -2.75,
+    2.9,
+    2.3
+   ],
+   "corner +2.8 -2.2": [
+    2.75,
+    2.9,
+    -2.2
+   ],
+   "corner +2.8 +2.3": [
+    2.75,
+    2.9,
+    2.3
+   ],
+   "furnace top": [
+    0.6,
+    1.9,
+    -1.2
+   ],
+   "furnace front": [
+    0.6,
+    0.7,
+    -0.6
+   ],
+   "stairs top": [
+    -2.1,
+    1.02,
+    -1.7
+   ],
+   "stairs foot": [
+    -2.1,
+    0.2,
+    -0.1
+   ],
+   "crates": [
+    2.2,
+    1.0,
+    1.4
+   ],
+   "barrel": [
+    -1.0,
+    0.85,
+    -1.75
+   ],
+   "door top": [
+    -2.1,
+    2.85,
+    -2.17
+   ],
+   "dark passage": [
+    2.72,
+    2.0,
+    -0.1
+   ]
+  }
+ },
+ "base": {
+  "template": "indoor",
+  "light": "interior",
+  "room": [
+   5.5,
+   4.5,
+   2.9
+  ],
+  "view": "night",
+  "made": "2026-11-12"
+ },
+ "_marks_note": "landing: Lena at the front of the landing, 0.4 m clear of the ajar door's leaf (it swings into the room up to z -1.9). Marks must stay clear of moving parts (BUILDING.md)."
+}

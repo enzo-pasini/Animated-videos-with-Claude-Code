@@ -1,0 +1,28 @@
+Principais efeitos para Adicionar:
+	# Woosh (B SWORD WOOSH): 
+		## Quando usar? : Ideal em cenas que envolvem movimentos rapidos dos personagens, como: mudança rápida na expressão do personagem, personagem movimentando a cabeça de forma rápida, 
+		## Quando NÃO combina?: Quando um personagem toma um susto. Por mais que combine com as descrições acima, o som do Woosh não combina com sentimento de susto.
+		## Coloquei 2 versões de Woosh para diversificar um pouco o som. Por exemplo, se há cenário para aplicar alguns sons de woosh seguidos, para não ficar repetitivo, alternar entre o 2 tipos de Woosh
+	
+	# Button Click sound effect (scribblenauts-button-click.mp3)
+		## Quando usar? : Quando o personagem tiver fazendo açoes repetitivas, colocar o efeito sonoro para cada repetição dessa ação.
+
+	# Ideia sound effect (Ding sound effect):
+		## Quando usar? : Quando o personagem tiver uma ideia. 
+	
+	# Alert Sound (metal gear altert sound):
+		## Quando usar? : Bom quando o personagem tomar um susto, Ou quando haver uma climax change, mudança de chave na cena, colocando esse audio para chamar a atenção
+		## Precauções : Esse Efeito não deve ser colocado muito alto, pois ele já é alto por padrão.
+		
+	
+	# Reverse sound effect:
+		## Quando usar? : Junto com o efeito visual de rewind Ou replay (quando o video volta no tempo para mostrar algum fato, ou explicar algo)
+
+	# Fire burning: 
+		## Quando usar? : Quando a cena envolver fogo, bom para colocar baixinho no fundo.
+
+	# Sound of cash (Cash registrer sound effect):
+		## Quando usar? : Quando o dinheiro for mencionado na cena, ou a cena envolve o personagem pegando em dinheiro. 
+
+	# Crash sound effect : 
+		## Quando usar? : Obviamente quando houver alguma coisa quebrando, como: vidro quebrando, carro batendo, 

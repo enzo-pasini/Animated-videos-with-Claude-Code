@@ -1,0 +1,6 @@
+# TEST FIXTURE: the text the voice speaks (numbers as words, like voice_text.txt for ElevenLabs)
+At three A M, Mira lit forty lanterns on an empty pier.
+So the fishermen laughed at her.
+You see, the fog was coming.
+Every boat found the harbor that night.
+Nobody laughed again.

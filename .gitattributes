@@ -1,0 +1,6 @@
+# keep files as they are (LF); never touch binaries
+* text=auto eol=lf
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.ttf binary

@@ -1,0 +1,17 @@
+{
+ "duration_s": 12.367,
+ "frames": 371,
+ "fps": 30,
+ "music": "music_placeholder.wav",
+ "music_start_s": 0.0,
+ "voice_lufs": -21.6,
+ "music_lufs_raw": -16.4,
+ "music_gain_db": -25.2,
+ "gap_db": 20.0,
+ "duck_db": 4.0,
+ "normalization": "gain +12.54 dB + limiter at -2.7 dBFS (3 rounds)",
+ "limiter_db": 4.94,
+ "result_lufs": -14.1,
+ "result_true_peak_dbtp": -2.3,
+ "ok": true
+}

@@ -1,0 +1,2323 @@
+{
+ "id": "2026-11-07-bridge-break-step",
+ "title": "The Bridge That Hated Marching",
+ "duration": 50.963,
+ "source": "faster-whisper-large-v3-turbo + script alignment",
+ "voice_file": "voice_raw.mp3",
+ "tempo": 1.21,
+ "words": [
+  {
+   "w": "Soldiers",
+   "start": 0.0,
+   "end": 0.4,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "Soldiers"
+  },
+  {
+   "w": "are",
+   "start": 0.4,
+   "end": 0.56,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "are"
+  },
+  {
+   "w": "forbidden",
+   "start": 0.56,
+   "end": 0.94,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "forbidden"
+  },
+  {
+   "w": "to",
+   "start": 0.94,
+   "end": 1.16,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "to"
+  },
+  {
+   "w": "march",
+   "start": 1.16,
+   "end": 1.36,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "march"
+  },
+  {
+   "w": "in",
+   "start": 1.36,
+   "end": 1.48,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "step",
+   "start": 1.48,
+   "end": 1.7,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "step"
+  },
+  {
+   "w": "here.",
+   "start": 1.7,
+   "end": 1.94,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "here."
+  },
+  {
+   "w": "A",
+   "start": 2.18,
+   "end": 2.48,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "A"
+  },
+  {
+   "w": "sign",
+   "start": 2.48,
+   "end": 2.62,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "sign"
+  },
+  {
+   "w": "on",
+   "start": 2.62,
+   "end": 2.78,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "on"
+  },
+  {
+   "w": "London's",
+   "start": 2.78,
+   "end": 3.14,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "London's"
+  },
+  {
+   "w": "Albert",
+   "start": 3.14,
+   "end": 3.38,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "Albert"
+  },
+  {
+   "w": "Bridge",
+   "start": 3.38,
+   "end": 3.74,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "Bridge"
+  },
+  {
+   "w": "still",
+   "start": 3.74,
+   "end": 4.02,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "still"
+  },
+  {
+   "w": "says",
+   "start": 4.02,
+   "end": 4.26,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "says"
+  },
+  {
+   "w": "so.",
+   "start": 4.26,
+   "end": 4.5,
+   "beat": "hook",
+   "match": "exact",
+   "heard": "so."
+  },
+  {
+   "w": "It",
+   "start": 4.7,
+   "end": 4.98,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "It"
+  },
+  {
+   "w": "sounds",
+   "start": 4.98,
+   "end": 5.16,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "sounds"
+  },
+  {
+   "w": "like",
+   "start": 5.16,
+   "end": 5.28,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "like"
+  },
+  {
+   "w": "a",
+   "start": 5.28,
+   "end": 5.38,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "silly",
+   "start": 5.38,
+   "end": 5.6,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "silly"
+  },
+  {
+   "w": "rule.",
+   "start": 5.6,
+   "end": 5.9,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "rule."
+  },
+  {
+   "w": "Now",
+   "start": 6.28,
+   "end": 6.72,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Now"
+  },
+  {
+   "w": "you're",
+   "start": 6.72,
+   "end": 6.88,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "you're"
+  },
+  {
+   "w": "one",
+   "start": 6.88,
+   "end": 7.02,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "one"
+  },
+  {
+   "w": "of",
+   "start": 7.02,
+   "end": 7.12,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "of"
+  },
+  {
+   "w": "seventy-four",
+   "start": 7.12,
+   "end": 7.68,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "seventy -four"
+  },
+  {
+   "w": "soldiers",
+   "start": 7.68,
+   "end": 8.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "soldiers"
+  },
+  {
+   "w": "near",
+   "start": 8.06,
+   "end": 8.28,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "near"
+  },
+  {
+   "w": "Manchester,",
+   "start": 8.28,
+   "end": 8.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Manchester,"
+  },
+  {
+   "w": "in",
+   "start": 8.98,
+   "end": 9.18,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "eighteen",
+   "start": 9.18,
+   "end": 9.36,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "eighteen"
+  },
+  {
+   "w": "thirty-one.",
+   "start": 9.36,
+   "end": 9.86,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "thirty -one."
+  },
+  {
+   "w": "You",
+   "start": 10.2,
+   "end": 10.48,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "You"
+  },
+  {
+   "w": "march",
+   "start": 10.48,
+   "end": 10.7,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "march"
+  },
+  {
+   "w": "four",
+   "start": 10.7,
+   "end": 10.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "four"
+  },
+  {
+   "w": "abreast",
+   "start": 10.92,
+   "end": 11.32,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "abreast"
+  },
+  {
+   "w": "onto",
+   "start": 11.32,
+   "end": 11.54,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "onto"
+  },
+  {
+   "w": "the",
+   "start": 11.54,
+   "end": 11.68,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "Broughton",
+   "start": 11.68,
+   "end": 11.98,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Broughton"
+  },
+  {
+   "w": "Suspension",
+   "start": 11.98,
+   "end": 12.42,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Suspension"
+  },
+  {
+   "w": "Bridge.",
+   "start": 12.42,
+   "end": 12.66,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Bridge."
+  },
+  {
+   "w": "Then",
+   "start": 13.08,
+   "end": 13.46,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Then"
+  },
+  {
+   "w": "the",
+   "start": 13.46,
+   "end": 13.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "bridge",
+   "start": 13.74,
+   "end": 13.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "bridge"
+  },
+  {
+   "w": "starts",
+   "start": 13.92,
+   "end": 14.16,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "starts"
+  },
+  {
+   "w": "to",
+   "start": 14.16,
+   "end": 14.3,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "to"
+  },
+  {
+   "w": "bounce,",
+   "start": 14.3,
+   "end": 14.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "bounce,"
+  },
+  {
+   "w": "in",
+   "start": 14.88,
+   "end": 15.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "in"
+  },
+  {
+   "w": "time",
+   "start": 15.06,
+   "end": 15.24,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "time"
+  },
+  {
+   "w": "with",
+   "start": 15.24,
+   "end": 15.4,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "with"
+  },
+  {
+   "w": "your",
+   "start": 15.4,
+   "end": 15.52,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "your"
+  },
+  {
+   "w": "boots.",
+   "start": 15.52,
+   "end": 15.8,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "boots."
+  },
+  {
+   "w": "Some",
+   "start": 16.12,
+   "end": 16.46,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Some"
+  },
+  {
+   "w": "of",
+   "start": 16.46,
+   "end": 16.56,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "of"
+  },
+  {
+   "w": "the",
+   "start": 16.56,
+   "end": 16.62,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "men",
+   "start": 16.62,
+   "end": 16.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "men"
+  },
+  {
+   "w": "think",
+   "start": 16.74,
+   "end": 16.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "think"
+  },
+  {
+   "w": "it's",
+   "start": 16.92,
+   "end": 17.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "it's"
+  },
+  {
+   "w": "funny.",
+   "start": 17.06,
+   "end": 17.32,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "funny,"
+  },
+  {
+   "w": "So",
+   "start": 17.54,
+   "end": 17.82,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "so"
+  },
+  {
+   "w": "they",
+   "start": 17.82,
+   "end": 17.92,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "they"
+  },
+  {
+   "w": "whistle",
+   "start": 17.92,
+   "end": 18.14,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "whistle"
+  },
+  {
+   "w": "a",
+   "start": 18.14,
+   "end": 18.28,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "marching",
+   "start": 18.28,
+   "end": 18.52,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "marching"
+  },
+  {
+   "w": "tune",
+   "start": 18.52,
+   "end": 18.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "tune"
+  },
+  {
+   "w": "and",
+   "start": 18.78,
+   "end": 18.96,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "step",
+   "start": 18.96,
+   "end": 19.2,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "step"
+  },
+  {
+   "w": "along",
+   "start": 19.2,
+   "end": 19.4,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "along"
+  },
+  {
+   "w": "with",
+   "start": 19.4,
+   "end": 19.56,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "with"
+  },
+  {
+   "w": "the",
+   "start": 19.56,
+   "end": 19.66,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "bounce.",
+   "start": 19.66,
+   "end": 19.94,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "bounce."
+  },
+  {
+   "w": "It",
+   "start": 20.24,
+   "end": 20.48,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "It"
+  },
+  {
+   "w": "shakes",
+   "start": 20.48,
+   "end": 20.74,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "shakes"
+  },
+  {
+   "w": "even",
+   "start": 20.74,
+   "end": 21.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "even"
+  },
+  {
+   "w": "harder.",
+   "start": 21.06,
+   "end": 21.42,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "harder."
+  },
+  {
+   "w": "Then",
+   "start": 21.96,
+   "end": 22.22,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Then"
+  },
+  {
+   "w": "one",
+   "start": 22.22,
+   "end": 22.58,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "one"
+  },
+  {
+   "w": "corner",
+   "start": 22.58,
+   "end": 22.86,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "corner"
+  },
+  {
+   "w": "drops,",
+   "start": 22.86,
+   "end": 23.32,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "drops,"
+  },
+  {
+   "w": "and",
+   "start": 23.48,
+   "end": 23.68,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "about",
+   "start": 23.68,
+   "end": 23.86,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "about"
+  },
+  {
+   "w": "forty",
+   "start": 23.86,
+   "end": 24.14,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "forty"
+  },
+  {
+   "w": "men",
+   "start": 24.14,
+   "end": 24.42,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "men"
+  },
+  {
+   "w": "fall",
+   "start": 24.42,
+   "end": 24.7,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "fall"
+  },
+  {
+   "w": "into",
+   "start": 24.7,
+   "end": 24.88,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "into"
+  },
+  {
+   "w": "the",
+   "start": 24.88,
+   "end": 24.98,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "river.",
+   "start": 24.98,
+   "end": 25.18,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "river."
+  },
+  {
+   "w": "Luckily,",
+   "start": 25.5,
+   "end": 25.94,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Luckily,"
+  },
+  {
+   "w": "it's",
+   "start": 26.14,
+   "end": 26.28,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "it's"
+  },
+  {
+   "w": "only",
+   "start": 26.28,
+   "end": 26.42,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "only"
+  },
+  {
+   "w": "two",
+   "start": 26.42,
+   "end": 26.6,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "two"
+  },
+  {
+   "w": "feet",
+   "start": 26.6,
+   "end": 26.78,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "feet"
+  },
+  {
+   "w": "deep.",
+   "start": 26.78,
+   "end": 27.06,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "deep."
+  },
+  {
+   "w": "Nobody",
+   "start": 27.28,
+   "end": 27.64,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "Nobody"
+  },
+  {
+   "w": "dies,",
+   "start": 27.64,
+   "end": 28.0,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "dies,"
+  },
+  {
+   "w": "but",
+   "start": 28.18,
+   "end": 28.32,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "but"
+  },
+  {
+   "w": "twenty",
+   "start": 28.32,
+   "end": 28.54,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "twenty"
+  },
+  {
+   "w": "men",
+   "start": 28.54,
+   "end": 28.76,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "men"
+  },
+  {
+   "w": "are",
+   "start": 28.76,
+   "end": 28.88,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "are"
+  },
+  {
+   "w": "hurt.",
+   "start": 28.88,
+   "end": 29.12,
+   "beat": "escalation",
+   "match": "exact",
+   "heard": "hurt."
+  },
+  {
+   "w": "Investigators",
+   "start": 29.72,
+   "end": 30.2,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "Investigators"
+  },
+  {
+   "w": "found",
+   "start": 30.2,
+   "end": 30.4,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "found"
+  },
+  {
+   "w": "a",
+   "start": 30.4,
+   "end": 30.54,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "badly",
+   "start": 30.54,
+   "end": 30.84,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "badly"
+  },
+  {
+   "w": "made",
+   "start": 30.84,
+   "end": 31.08,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "made"
+  },
+  {
+   "w": "bolt",
+   "start": 31.08,
+   "end": 31.38,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "bolt"
+  },
+  {
+   "w": "that",
+   "start": 31.38,
+   "end": 31.6,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "that"
+  },
+  {
+   "w": "had",
+   "start": 31.6,
+   "end": 31.72,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "had"
+  },
+  {
+   "w": "snapped.",
+   "start": 31.72,
+   "end": 32.04,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "snapped."
+  },
+  {
+   "w": "But",
+   "start": 32.22,
+   "end": 32.58,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "But"
+  },
+  {
+   "w": "the",
+   "start": 32.58,
+   "end": 32.7,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "marching",
+   "start": 32.7,
+   "end": 33.02,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "marching"
+  },
+  {
+   "w": "is",
+   "start": 33.02,
+   "end": 33.32,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "is"
+  },
+  {
+   "w": "what",
+   "start": 33.32,
+   "end": 33.44,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "what"
+  },
+  {
+   "w": "snapped",
+   "start": 33.44,
+   "end": 33.72,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "snapped"
+  },
+  {
+   "w": "it",
+   "start": 33.72,
+   "end": 33.84,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "it"
+  },
+  {
+   "w": "that",
+   "start": 33.84,
+   "end": 34.0,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "that"
+  },
+  {
+   "w": "day.",
+   "start": 34.0,
+   "end": 34.2,
+   "beat": "turn",
+   "match": "exact",
+   "heard": "day."
+  },
+  {
+   "w": "You",
+   "start": 34.52,
+   "end": 34.8,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "You"
+  },
+  {
+   "w": "see,",
+   "start": 34.8,
+   "end": 34.96,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "see,"
+  },
+  {
+   "w": "every",
+   "start": 35.12,
+   "end": 35.46,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "every"
+  },
+  {
+   "w": "bridge",
+   "start": 35.46,
+   "end": 35.8,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "bridge"
+  },
+  {
+   "w": "has",
+   "start": 35.8,
+   "end": 35.98,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "has"
+  },
+  {
+   "w": "its",
+   "start": 35.98,
+   "end": 36.1,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "its"
+  },
+  {
+   "w": "own",
+   "start": 36.1,
+   "end": 36.3,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "own"
+  },
+  {
+   "w": "natural",
+   "start": 36.3,
+   "end": 36.66,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "natural"
+  },
+  {
+   "w": "swing,",
+   "start": 36.66,
+   "end": 37.08,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "swing,"
+  },
+  {
+   "w": "like",
+   "start": 37.24,
+   "end": 37.46,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "like"
+  },
+  {
+   "w": "a",
+   "start": 37.46,
+   "end": 37.54,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "playground",
+   "start": 37.54,
+   "end": 37.8,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "playground"
+  },
+  {
+   "w": "swing.",
+   "start": 37.8,
+   "end": 38.12,
+   "beat": "you-see",
+   "match": "exact",
+   "heard": "swing."
+  },
+  {
+   "w": "Push",
+   "start": 38.36,
+   "end": 38.74,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "Push"
+  },
+  {
+   "w": "a",
+   "start": 38.74,
+   "end": 38.84,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "swing",
+   "start": 38.84,
+   "end": 39.02,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "swing"
+  },
+  {
+   "w": "at",
+   "start": 39.02,
+   "end": 39.14,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "at"
+  },
+  {
+   "w": "the",
+   "start": 39.14,
+   "end": 39.22,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "right",
+   "start": 39.22,
+   "end": 39.42,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "right"
+  },
+  {
+   "w": "moment,",
+   "start": 39.42,
+   "end": 39.74,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "moment,"
+  },
+  {
+   "w": "every",
+   "start": 39.92,
+   "end": 40.18,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "every"
+  },
+  {
+   "w": "time,",
+   "start": 40.18,
+   "end": 40.5,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "time,"
+  },
+  {
+   "w": "and",
+   "start": 40.64,
+   "end": 40.82,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "it",
+   "start": 40.82,
+   "end": 40.9,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "it"
+  },
+  {
+   "w": "goes",
+   "start": 40.9,
+   "end": 41.06,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "goes"
+  },
+  {
+   "w": "higher",
+   "start": 41.06,
+   "end": 41.36,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "higher"
+  },
+  {
+   "w": "and",
+   "start": 41.36,
+   "end": 41.58,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "and"
+  },
+  {
+   "w": "higher.",
+   "start": 41.58,
+   "end": 41.88,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "higher."
+  },
+  {
+   "w": "Boots",
+   "start": 42.36,
+   "end": 42.68,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "Boots"
+  },
+  {
+   "w": "landing",
+   "start": 42.68,
+   "end": 42.94,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "landing"
+  },
+  {
+   "w": "together",
+   "start": 42.94,
+   "end": 43.28,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "together"
+  },
+  {
+   "w": "are",
+   "start": 43.28,
+   "end": 43.54,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "are"
+  },
+  {
+   "w": "those",
+   "start": 43.54,
+   "end": 43.72,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "those"
+  },
+  {
+   "w": "pushes,",
+   "start": 43.72,
+   "end": 44.06,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "pushes,"
+  },
+  {
+   "w": "so",
+   "start": 44.28,
+   "end": 44.54,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "so"
+  },
+  {
+   "w": "each",
+   "start": 44.54,
+   "end": 44.82,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "each"
+  },
+  {
+   "w": "step",
+   "start": 44.82,
+   "end": 45.08,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "step"
+  },
+  {
+   "w": "adds",
+   "start": 45.08,
+   "end": 45.44,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "adds"
+  },
+  {
+   "w": "to",
+   "start": 45.44,
+   "end": 45.62,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "to"
+  },
+  {
+   "w": "the",
+   "start": 45.62,
+   "end": 45.72,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "last",
+   "start": 45.72,
+   "end": 45.94,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "last"
+  },
+  {
+   "w": "bounce.",
+   "start": 45.94,
+   "end": 46.26,
+   "beat": "reveal",
+   "match": "exact",
+   "heard": "bounce."
+  },
+  {
+   "w": "That's",
+   "start": 46.58,
+   "end": 47.02,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "That's"
+  },
+  {
+   "w": "why",
+   "start": 47.02,
+   "end": 47.12,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "why"
+  },
+  {
+   "w": "the",
+   "start": 47.12,
+   "end": 47.24,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "the"
+  },
+  {
+   "w": "army",
+   "start": 47.24,
+   "end": 47.42,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "army"
+  },
+  {
+   "w": "still",
+   "start": 47.42,
+   "end": 47.72,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "still"
+  },
+  {
+   "w": "says:",
+   "start": 47.72,
+   "end": 48.1,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "says,"
+  },
+  {
+   "w": "break",
+   "start": 48.38,
+   "end": 48.58,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "break"
+  },
+  {
+   "w": "step.",
+   "start": 48.58,
+   "end": 48.82,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "step."
+  },
+  {
+   "w": "Walk",
+   "start": 49.08,
+   "end": 49.44,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "Walk"
+  },
+  {
+   "w": "like",
+   "start": 49.44,
+   "end": 49.58,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "like"
+  },
+  {
+   "w": "a",
+   "start": 49.58,
+   "end": 49.7,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "crowd,",
+   "start": 49.7,
+   "end": 50.04,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "crowd,"
+  },
+  {
+   "w": "not",
+   "start": 50.32,
+   "end": 50.46,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "not"
+  },
+  {
+   "w": "a",
+   "start": 50.46,
+   "end": 50.58,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "a"
+  },
+  {
+   "w": "drum.",
+   "start": 50.58,
+   "end": 50.78,
+   "beat": "ending",
+   "match": "exact",
+   "heard": "drum."
+  }
+ ],
+ "whisper": [
+  {
+   "w": "Soldiers",
+   "start": 0.0,
+   "end": 0.4
+  },
+  {
+   "w": "are",
+   "start": 0.4,
+   "end": 0.56
+  },
+  {
+   "w": "forbidden",
+   "start": 0.56,
+   "end": 0.94
+  },
+  {
+   "w": "to",
+   "start": 0.94,
+   "end": 1.16
+  },
+  {
+   "w": "march",
+   "start": 1.16,
+   "end": 1.36
+  },
+  {
+   "w": "in",
+   "start": 1.36,
+   "end": 1.48
+  },
+  {
+   "w": "step",
+   "start": 1.48,
+   "end": 1.7
+  },
+  {
+   "w": "here.",
+   "start": 1.7,
+   "end": 1.94
+  },
+  {
+   "w": "A",
+   "start": 2.18,
+   "end": 2.48
+  },
+  {
+   "w": "sign",
+   "start": 2.48,
+   "end": 2.62
+  },
+  {
+   "w": "on",
+   "start": 2.62,
+   "end": 2.78
+  },
+  {
+   "w": "London's",
+   "start": 2.78,
+   "end": 3.14
+  },
+  {
+   "w": "Albert",
+   "start": 3.14,
+   "end": 3.38
+  },
+  {
+   "w": "Bridge",
+   "start": 3.38,
+   "end": 3.74
+  },
+  {
+   "w": "still",
+   "start": 3.74,
+   "end": 4.02
+  },
+  {
+   "w": "says",
+   "start": 4.02,
+   "end": 4.26
+  },
+  {
+   "w": "so.",
+   "start": 4.26,
+   "end": 4.5
+  },
+  {
+   "w": "It",
+   "start": 4.7,
+   "end": 4.98
+  },
+  {
+   "w": "sounds",
+   "start": 4.98,
+   "end": 5.16
+  },
+  {
+   "w": "like",
+   "start": 5.16,
+   "end": 5.28
+  },
+  {
+   "w": "a",
+   "start": 5.28,
+   "end": 5.38
+  },
+  {
+   "w": "silly",
+   "start": 5.38,
+   "end": 5.6
+  },
+  {
+   "w": "rule.",
+   "start": 5.6,
+   "end": 5.9
+  },
+  {
+   "w": "Now",
+   "start": 6.28,
+   "end": 6.72
+  },
+  {
+   "w": "you're",
+   "start": 6.72,
+   "end": 6.88
+  },
+  {
+   "w": "one",
+   "start": 6.88,
+   "end": 7.02
+  },
+  {
+   "w": "of",
+   "start": 7.02,
+   "end": 7.12
+  },
+  {
+   "w": "seventy",
+   "start": 7.12,
+   "end": 7.42
+  },
+  {
+   "w": "-four",
+   "start": 7.42,
+   "end": 7.68
+  },
+  {
+   "w": "soldiers",
+   "start": 7.68,
+   "end": 8.06
+  },
+  {
+   "w": "near",
+   "start": 8.06,
+   "end": 8.28
+  },
+  {
+   "w": "Manchester,",
+   "start": 8.28,
+   "end": 8.78
+  },
+  {
+   "w": "in",
+   "start": 8.98,
+   "end": 9.18
+  },
+  {
+   "w": "eighteen",
+   "start": 9.18,
+   "end": 9.36
+  },
+  {
+   "w": "thirty",
+   "start": 9.36,
+   "end": 9.64
+  },
+  {
+   "w": "-one.",
+   "start": 9.64,
+   "end": 9.86
+  },
+  {
+   "w": "You",
+   "start": 10.2,
+   "end": 10.48
+  },
+  {
+   "w": "march",
+   "start": 10.48,
+   "end": 10.7
+  },
+  {
+   "w": "four",
+   "start": 10.7,
+   "end": 10.92
+  },
+  {
+   "w": "abreast",
+   "start": 10.92,
+   "end": 11.32
+  },
+  {
+   "w": "onto",
+   "start": 11.32,
+   "end": 11.54
+  },
+  {
+   "w": "the",
+   "start": 11.54,
+   "end": 11.68
+  },
+  {
+   "w": "Broughton",
+   "start": 11.68,
+   "end": 11.98
+  },
+  {
+   "w": "Suspension",
+   "start": 11.98,
+   "end": 12.42
+  },
+  {
+   "w": "Bridge.",
+   "start": 12.42,
+   "end": 12.66
+  },
+  {
+   "w": "Then",
+   "start": 13.08,
+   "end": 13.46
+  },
+  {
+   "w": "the",
+   "start": 13.46,
+   "end": 13.74
+  },
+  {
+   "w": "bridge",
+   "start": 13.74,
+   "end": 13.92
+  },
+  {
+   "w": "starts",
+   "start": 13.92,
+   "end": 14.16
+  },
+  {
+   "w": "to",
+   "start": 14.16,
+   "end": 14.3
+  },
+  {
+   "w": "bounce,",
+   "start": 14.3,
+   "end": 14.64
+  },
+  {
+   "w": "in",
+   "start": 14.88,
+   "end": 15.06
+  },
+  {
+   "w": "time",
+   "start": 15.06,
+   "end": 15.24
+  },
+  {
+   "w": "with",
+   "start": 15.24,
+   "end": 15.4
+  },
+  {
+   "w": "your",
+   "start": 15.4,
+   "end": 15.52
+  },
+  {
+   "w": "boots.",
+   "start": 15.52,
+   "end": 15.8
+  },
+  {
+   "w": "Some",
+   "start": 16.12,
+   "end": 16.46
+  },
+  {
+   "w": "of",
+   "start": 16.46,
+   "end": 16.56
+  },
+  {
+   "w": "the",
+   "start": 16.56,
+   "end": 16.62
+  },
+  {
+   "w": "men",
+   "start": 16.62,
+   "end": 16.74
+  },
+  {
+   "w": "think",
+   "start": 16.74,
+   "end": 16.92
+  },
+  {
+   "w": "it's",
+   "start": 16.92,
+   "end": 17.06
+  },
+  {
+   "w": "funny,",
+   "start": 17.06,
+   "end": 17.32
+  },
+  {
+   "w": "so",
+   "start": 17.54,
+   "end": 17.82
+  },
+  {
+   "w": "they",
+   "start": 17.82,
+   "end": 17.92
+  },
+  {
+   "w": "whistle",
+   "start": 17.92,
+   "end": 18.14
+  },
+  {
+   "w": "a",
+   "start": 18.14,
+   "end": 18.28
+  },
+  {
+   "w": "marching",
+   "start": 18.28,
+   "end": 18.52
+  },
+  {
+   "w": "tune",
+   "start": 18.52,
+   "end": 18.78
+  },
+  {
+   "w": "and",
+   "start": 18.78,
+   "end": 18.96
+  },
+  {
+   "w": "step",
+   "start": 18.96,
+   "end": 19.2
+  },
+  {
+   "w": "along",
+   "start": 19.2,
+   "end": 19.4
+  },
+  {
+   "w": "with",
+   "start": 19.4,
+   "end": 19.56
+  },
+  {
+   "w": "the",
+   "start": 19.56,
+   "end": 19.66
+  },
+  {
+   "w": "bounce.",
+   "start": 19.66,
+   "end": 19.94
+  },
+  {
+   "w": "It",
+   "start": 20.24,
+   "end": 20.48
+  },
+  {
+   "w": "shakes",
+   "start": 20.48,
+   "end": 20.74
+  },
+  {
+   "w": "even",
+   "start": 20.74,
+   "end": 21.06
+  },
+  {
+   "w": "harder.",
+   "start": 21.06,
+   "end": 21.42
+  },
+  {
+   "w": "Then",
+   "start": 21.96,
+   "end": 22.22
+  },
+  {
+   "w": "one",
+   "start": 22.22,
+   "end": 22.58
+  },
+  {
+   "w": "corner",
+   "start": 22.58,
+   "end": 22.86
+  },
+  {
+   "w": "drops,",
+   "start": 22.86,
+   "end": 23.32
+  },
+  {
+   "w": "and",
+   "start": 23.48,
+   "end": 23.68
+  },
+  {
+   "w": "about",
+   "start": 23.68,
+   "end": 23.86
+  },
+  {
+   "w": "forty",
+   "start": 23.86,
+   "end": 24.14
+  },
+  {
+   "w": "men",
+   "start": 24.14,
+   "end": 24.42
+  },
+  {
+   "w": "fall",
+   "start": 24.42,
+   "end": 24.7
+  },
+  {
+   "w": "into",
+   "start": 24.7,
+   "end": 24.88
+  },
+  {
+   "w": "the",
+   "start": 24.88,
+   "end": 24.98
+  },
+  {
+   "w": "river.",
+   "start": 24.98,
+   "end": 25.18
+  },
+  {
+   "w": "Luckily,",
+   "start": 25.5,
+   "end": 25.94
+  },
+  {
+   "w": "it's",
+   "start": 26.14,
+   "end": 26.28
+  },
+  {
+   "w": "only",
+   "start": 26.28,
+   "end": 26.42
+  },
+  {
+   "w": "two",
+   "start": 26.42,
+   "end": 26.6
+  },
+  {
+   "w": "feet",
+   "start": 26.6,
+   "end": 26.78
+  },
+  {
+   "w": "deep.",
+   "start": 26.78,
+   "end": 27.06
+  },
+  {
+   "w": "Nobody",
+   "start": 27.28,
+   "end": 27.64
+  },
+  {
+   "w": "dies,",
+   "start": 27.64,
+   "end": 28.0
+  },
+  {
+   "w": "but",
+   "start": 28.18,
+   "end": 28.32
+  },
+  {
+   "w": "twenty",
+   "start": 28.32,
+   "end": 28.54
+  },
+  {
+   "w": "men",
+   "start": 28.54,
+   "end": 28.76
+  },
+  {
+   "w": "are",
+   "start": 28.76,
+   "end": 28.88
+  },
+  {
+   "w": "hurt.",
+   "start": 28.88,
+   "end": 29.12
+  },
+  {
+   "w": "Investigators",
+   "start": 29.72,
+   "end": 30.2
+  },
+  {
+   "w": "found",
+   "start": 30.2,
+   "end": 30.4
+  },
+  {
+   "w": "a",
+   "start": 30.4,
+   "end": 30.54
+  },
+  {
+   "w": "badly",
+   "start": 30.54,
+   "end": 30.84
+  },
+  {
+   "w": "made",
+   "start": 30.84,
+   "end": 31.08
+  },
+  {
+   "w": "bolt",
+   "start": 31.08,
+   "end": 31.38
+  },
+  {
+   "w": "that",
+   "start": 31.38,
+   "end": 31.6
+  },
+  {
+   "w": "had",
+   "start": 31.6,
+   "end": 31.72
+  },
+  {
+   "w": "snapped.",
+   "start": 31.72,
+   "end": 32.04
+  },
+  {
+   "w": "But",
+   "start": 32.22,
+   "end": 32.58
+  },
+  {
+   "w": "the",
+   "start": 32.58,
+   "end": 32.7
+  },
+  {
+   "w": "marching",
+   "start": 32.7,
+   "end": 33.02
+  },
+  {
+   "w": "is",
+   "start": 33.02,
+   "end": 33.32
+  },
+  {
+   "w": "what",
+   "start": 33.32,
+   "end": 33.44
+  },
+  {
+   "w": "snapped",
+   "start": 33.44,
+   "end": 33.72
+  },
+  {
+   "w": "it",
+   "start": 33.72,
+   "end": 33.84
+  },
+  {
+   "w": "that",
+   "start": 33.84,
+   "end": 34.0
+  },
+  {
+   "w": "day.",
+   "start": 34.0,
+   "end": 34.2
+  },
+  {
+   "w": "You",
+   "start": 34.52,
+   "end": 34.8
+  },
+  {
+   "w": "see,",
+   "start": 34.8,
+   "end": 34.96
+  },
+  {
+   "w": "every",
+   "start": 35.12,
+   "end": 35.46
+  },
+  {
+   "w": "bridge",
+   "start": 35.46,
+   "end": 35.8
+  },
+  {
+   "w": "has",
+   "start": 35.8,
+   "end": 35.98
+  },
+  {
+   "w": "its",
+   "start": 35.98,
+   "end": 36.1
+  },
+  {
+   "w": "own",
+   "start": 36.1,
+   "end": 36.3
+  },
+  {
+   "w": "natural",
+   "start": 36.3,
+   "end": 36.66
+  },
+  {
+   "w": "swing,",
+   "start": 36.66,
+   "end": 37.08
+  },
+  {
+   "w": "like",
+   "start": 37.24,
+   "end": 37.46
+  },
+  {
+   "w": "a",
+   "start": 37.46,
+   "end": 37.54
+  },
+  {
+   "w": "playground",
+   "start": 37.54,
+   "end": 37.8
+  },
+  {
+   "w": "swing.",
+   "start": 37.8,
+   "end": 38.12
+  },
+  {
+   "w": "Push",
+   "start": 38.36,
+   "end": 38.74
+  },
+  {
+   "w": "a",
+   "start": 38.74,
+   "end": 38.84
+  },
+  {
+   "w": "swing",
+   "start": 38.84,
+   "end": 39.02
+  },
+  {
+   "w": "at",
+   "start": 39.02,
+   "end": 39.14
+  },
+  {
+   "w": "the",
+   "start": 39.14,
+   "end": 39.22
+  },
+  {
+   "w": "right",
+   "start": 39.22,
+   "end": 39.42
+  },
+  {
+   "w": "moment,",
+   "start": 39.42,
+   "end": 39.74
+  },
+  {
+   "w": "every",
+   "start": 39.92,
+   "end": 40.18
+  },
+  {
+   "w": "time,",
+   "start": 40.18,
+   "end": 40.5
+  },
+  {
+   "w": "and",
+   "start": 40.64,
+   "end": 40.82
+  },
+  {
+   "w": "it",
+   "start": 40.82,
+   "end": 40.9
+  },
+  {
+   "w": "goes",
+   "start": 40.9,
+   "end": 41.06
+  },
+  {
+   "w": "higher",
+   "start": 41.06,
+   "end": 41.36
+  },
+  {
+   "w": "and",
+   "start": 41.36,
+   "end": 41.58
+  },
+  {
+   "w": "higher.",
+   "start": 41.58,
+   "end": 41.88
+  },
+  {
+   "w": "Boots",
+   "start": 42.36,
+   "end": 42.68
+  },
+  {
+   "w": "landing",
+   "start": 42.68,
+   "end": 42.94
+  },
+  {
+   "w": "together",
+   "start": 42.94,
+   "end": 43.28
+  },
+  {
+   "w": "are",
+   "start": 43.28,
+   "end": 43.54
+  },
+  {
+   "w": "those",
+   "start": 43.54,
+   "end": 43.72
+  },
+  {
+   "w": "pushes,",
+   "start": 43.72,
+   "end": 44.06
+  },
+  {
+   "w": "so",
+   "start": 44.28,
+   "end": 44.54
+  },
+  {
+   "w": "each",
+   "start": 44.54,
+   "end": 44.82
+  },
+  {
+   "w": "step",
+   "start": 44.82,
+   "end": 45.08
+  },
+  {
+   "w": "adds",
+   "start": 45.08,
+   "end": 45.44
+  },
+  {
+   "w": "to",
+   "start": 45.44,
+   "end": 45.62
+  },
+  {
+   "w": "the",
+   "start": 45.62,
+   "end": 45.72
+  },
+  {
+   "w": "last",
+   "start": 45.72,
+   "end": 45.94
+  },
+  {
+   "w": "bounce.",
+   "start": 45.94,
+   "end": 46.26
+  },
+  {
+   "w": "That's",
+   "start": 46.58,
+   "end": 47.02
+  },
+  {
+   "w": "why",
+   "start": 47.02,
+   "end": 47.12
+  },
+  {
+   "w": "the",
+   "start": 47.12,
+   "end": 47.24
+  },
+  {
+   "w": "army",
+   "start": 47.24,
+   "end": 47.42
+  },
+  {
+   "w": "still",
+   "start": 47.42,
+   "end": 47.72
+  },
+  {
+   "w": "says,",
+   "start": 47.72,
+   "end": 48.1
+  },
+  {
+   "w": "break",
+   "start": 48.38,
+   "end": 48.58
+  },
+  {
+   "w": "step.",
+   "start": 48.58,
+   "end": 48.82
+  },
+  {
+   "w": "Walk",
+   "start": 49.08,
+   "end": 49.44
+  },
+  {
+   "w": "like",
+   "start": 49.44,
+   "end": 49.58
+  },
+  {
+   "w": "a",
+   "start": 49.58,
+   "end": 49.7
+  },
+  {
+   "w": "crowd,",
+   "start": 49.7,
+   "end": 50.04
+  },
+  {
+   "w": "not",
+   "start": 50.32,
+   "end": 50.46
+  },
+  {
+   "w": "a",
+   "start": 50.46,
+   "end": 50.58
+  },
+  {
+   "w": "drum.",
+   "start": 50.58,
+   "end": 50.78
+  }
+ ]
+}

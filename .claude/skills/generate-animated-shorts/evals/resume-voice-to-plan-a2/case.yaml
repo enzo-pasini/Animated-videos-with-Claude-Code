@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: resume-voice-to-plan-a2
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  The run finds the first missing step (the voice is there, the script is approved), imports the voice
+  (audio/voice.wav, audio/words.json, audio/pace.md with the pace vs the reference), makes
+  captions.json, then writes scene_plan.json + scene_plan.md on the real word times with word anchors,
+  at least two sets, camera presets, and a first shot that already shows the strange result (fogged
+  glasses). build_props.py passes its plan check with no FAIL and variety_check.py runs. The run stops
+  at approval stop A2 with the shot table; it does not render a storyboard or a preview.

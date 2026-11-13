@@ -1,0 +1,96 @@
+{
+ "_about": "Calibration plan for the warmInterior preset (D10). Rebuild: build_props.py tools/tests/calibration/warm_interior, render Episode with its render_props.json, measure with check_render.py --profile calibration. Reports: report_v1 (first build), report_v2 (iteration 1), report_v3 (iteration 2 = cap).",
+ "fps": 30,
+ "dissolve_frames": 8,
+ "frames": 300,
+ "audio": {
+  "words": "../../bram_plan/audio/words.json",
+  "public_path": null
+ },
+ "lights": {
+  "lamp": [
+   [
+    "f:0",
+    1
+   ]
+  ]
+ },
+ "shots": [
+  {
+   "id": "w1",
+   "beat": "hook",
+   "from": "f:0",
+   "set": "workshop",
+   "camera": {
+    "preset": "fast_entry",
+    "aim": "mark:table",
+    "side": "right"
+   },
+   "actors": [
+    {
+     "who": "mira",
+     "at": "mark:table",
+     "pose": {
+      "expr": "thinking"
+     }
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "from": "f:68",
+   "set": "workshop",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -2.3,
+     1.6,
+     -2.1
+    ],
+    "head_pct": 18,
+    "side": "left"
+   }
+  },
+  {
+   "id": "w3",
+   "from": "f:140",
+   "set": "workshop",
+   "camera": {
+    "preset": "close_up",
+    "aim": "mark:table",
+    "side": "front"
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "mira",
+     "at": "mark:table",
+     "pose": {
+      "expr": "surprised"
+     }
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "from": "f:215",
+   "set": "workshop",
+   "camera": {
+    "preset": "pull_out",
+    "aim": "mark:center",
+    "side": "left",
+    "head_pct": 30
+   },
+   "actors": [
+    {
+     "who": "mira",
+     "at": "mark:center",
+     "pose": {
+      "expr": "happy"
+     }
+    }
+   ]
+  }
+ ],
+ "captions": "../../bram_plan/captions.json"
+}

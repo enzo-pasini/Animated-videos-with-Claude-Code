@@ -1,0 +1,64 @@
+{
+  "_about": "Data of the day_street set: the night_street geometry by day (D12), light preset dayExterior. Read by tools/build_props.py (marks, front), src/episode/sets.tsx and tools/check_render.py (light_kind). Marks = feet positions on the ground (meters).",
+  "id": "day_street",
+  "light_preset": "dayExterior",
+  "light_kind": "day",
+  "front": [
+    0,
+    0,
+    1
+  ],
+  "marks": {
+    "lantern_spot": [
+      0.011697088772969766,
+      0.14,
+      -1.4191009049026724
+    ],
+    "shop_window": [
+      1.15,
+      0.14,
+      -1.45
+    ],
+    "door": [
+      -1.45,
+      0.14,
+      -1.45
+    ],
+    "street_center": [
+      0.0,
+      0.0,
+      2.2
+    ],
+    "across_window": [
+      0.9,
+      3.4,
+      6.5
+    ],
+    "street_far": [
+      0.2,
+      0.0,
+      3.4
+    ]
+  },
+  "mark_notes": {
+    "lantern_spot": "where Bram stands in v3: his raised pole touches the lantern seen from the v3 hook camera",
+    "across_window": "not a feet mark: the window across the street (camera aim point)",
+    "street_far": "middle of the street, far side: film it with camera front [0, 0, -1] for the facades across + sky"
+  },
+  "lights": {},
+  "camera_bounds": {
+    "x": [
+      -20.0,
+      20.0
+    ],
+    "y": [
+      0.2,
+      14.0
+    ],
+    "z": [
+      -1.35,
+      6.3
+    ]
+  },
+  "_camera_bounds": "box the camera must stay inside (walls, facades); presets shorten their distance to fit"
+}

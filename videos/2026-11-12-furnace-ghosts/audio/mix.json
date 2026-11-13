@@ -1,0 +1,80 @@
+{
+ "duration_s": 53.4,
+ "frames": 1602,
+ "fps": 30,
+ "music": null,
+ "music_start_s": 0.0,
+ "voice_lufs": -25.8,
+ "music_lufs_raw": null,
+ "music_gain_db": null,
+ "gap_db": 20.0,
+ "duck_db": 4.0,
+ "voice_rms_db": -25.35,
+ "sfx": [
+  {
+   "at": "w:35+3",
+   "frame": 290,
+   "sound": "alert",
+   "file": "metal-gear-alert-sound-effect.mp3",
+   "start_s": 9.577,
+   "hit_s": 0.09,
+   "rel_db": -12.0,
+   "gain_db": -19.24
+  },
+  {
+   "at": "w:83+1",
+   "frame": 675,
+   "sound": "alert",
+   "file": "metal-gear-alert-sound-effect.mp3",
+   "start_s": 22.41,
+   "hit_s": 0.09,
+   "rel_db": -12.0,
+   "gain_db": -19.24
+  },
+  {
+   "at": "w:95+3",
+   "frame": 797,
+   "sound": "woosh",
+   "file": "woosh_1.mp3",
+   "start_s": 26.467,
+   "hit_s": 0.1,
+   "rel_db": -9.0,
+   "gain_db": -22.63
+  },
+  {
+   "at": "w:95+15",
+   "frame": 809,
+   "sound": "click",
+   "file": "scribblenauts-button-click.mp3",
+   "start_s": 26.937,
+   "hit_s": 0.03,
+   "rel_db": -15.0,
+   "gain_db": -19.64
+  },
+  {
+   "at": "w:95+25",
+   "frame": 819,
+   "sound": "click",
+   "file": "scribblenauts-button-click.mp3",
+   "start_s": 27.27,
+   "hit_s": 0.03,
+   "rel_db": -15.0,
+   "gain_db": -19.64
+  },
+  {
+   "at": "w:171+2",
+   "frame": 1444,
+   "sound": "woosh",
+   "file": "woosh_2.mp3",
+   "start_s": 47.973,
+   "hit_s": 0.16,
+   "rel_db": -9.0,
+   "gain_db": -15.61
+  }
+ ],
+ "normalization": "gain +12.01 dB + limiter at -2.7 dBFS (2 rounds)",
+ "limiter_db": 0.31,
+ "result_lufs": -14.0,
+ "result_true_peak_dbtp": -2.6,
+ "ok": true
+}

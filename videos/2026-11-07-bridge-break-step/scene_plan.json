@@ -1,0 +1,1474 @@
+{
+ "_about": "Soldiers break step on bridges. Word index -> word: 8 A(sign), 17 It(silly), 23 Now, 29 near, 34 You(march), 43 Then(bounce), 54 Some, 63 whistle, 73 It(shakes), 77 Then(corner), 79 corner, 81 and(fall), 89 Luckily, 95 Nobody, 102 Investigators, 111 But, 120 You(see), 129 like, 133 Push, 140 every, 148 Boots, 154 so, 162 That's, 168 break, 170 Walk. One set (bridge) plays London today (sign) and Broughton 1831; lights: march, bounce, drop.",
+ "id": "2026-11-07-bridge-break-step",
+ "format": "explainer",
+ "fps": 30,
+ "dissolve_frames": 8,
+ "audio": {
+  "words": "audio/words.json",
+  "public_path": "episodes/2026-11-07-bridge-break-step/mix.wav"
+ },
+ "captions": "captions.json",
+ "lights": {
+  "march": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:34-6",
+    0
+   ],
+   [
+    "w:34",
+    1
+   ],
+   [
+    "w:81",
+    1
+   ],
+   [
+    "w:81+6",
+    0
+   ],
+   [
+    "w:148-6",
+    0
+   ],
+   [
+    "w:148",
+    1
+   ],
+   [
+    "w:162-1",
+    1
+   ],
+   [
+    "w:162",
+    0
+   ]
+  ],
+  "bounce": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:43",
+    0
+   ],
+   [
+    "w:48",
+    0.5
+   ],
+   [
+    "w:73",
+    0.7
+   ],
+   [
+    "w:76",
+    1
+   ],
+   [
+    "w:81",
+    1
+   ],
+   [
+    "w:81+6",
+    0
+   ],
+   [
+    "w:148-6",
+    0
+   ],
+   [
+    "w:148",
+    0.3
+   ],
+   [
+    "w:161",
+    1
+   ],
+   [
+    "w:162-1",
+    1
+   ],
+   [
+    "w:162",
+    0
+   ]
+  ],
+  "drop": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:79",
+    0
+   ],
+   [
+    "w:80+4",
+    1
+   ],
+   [
+    "w:120+9",
+    1
+   ],
+   [
+    "w:120+10",
+    0
+   ]
+  ],
+  "sign": [
+   [
+    "f:0",
+    1
+   ],
+   [
+    "w:23-1",
+    1
+   ],
+   [
+    "w:23",
+    0
+   ],
+   [
+    "w:162-1",
+    0
+   ],
+   [
+    "w:162",
+    1
+   ]
+  ]
+ },
+ "shots": [
+  {
+   "id": "s01",
+   "beat": "hook",
+   "from": "f:0",
+   "set": "bridge",
+   "camera": {
+    "preset": "fast_entry",
+    "aim": [
+     -10.75,
+     4.6,
+     2.2
+    ],
+    "head_pct": 26,
+    "side": "right"
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -10.0,
+      3.2,
+      2.5
+     ],
+     "pose": {
+      "expr": "neutral",
+      "lookX": -0.7,
+      "lookY": -0.3
+     },
+     "blink": [
+      "f:40"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "beat": "hook",
+   "from": "w:8",
+   "set": "bridge",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -10.4,
+     4.3,
+     2.2
+    ],
+    "head_pct": 22,
+    "side": "right",
+    "elev": 0.12
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -10.0,
+      3.2,
+      2.5
+     ],
+     "pose": {
+      "expr": "thinking",
+      "lookX": -0.7
+     },
+     "blink": [
+      "w:13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "beat": "escalation",
+   "from": "w:17",
+   "set": "bridge",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     -10.0,
+     4.63,
+     2.5
+    ],
+    "side": "left"
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -10.0,
+      3.2,
+      2.5
+     ],
+     "pose": {
+      "expr": "shrug"
+     },
+     "blink": [
+      "w:21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "beat": "escalation",
+   "from": "w:23",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -14.0,
+     4.4,
+     0.6
+    ],
+    "side": "right"
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -14.0,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "proud"
+     },
+     "blink": [
+      "w:26"
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -14.0,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -14.0,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -14.0,
+      3.2,
+      -0.9
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -15.4,
+      3.2,
+      0.9
+     ]
+    },
+    {
+     "who": "rifleman",
+     "at": [
+      -15.4,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -15.4,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -15.4,
+      3.2,
+      -0.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "beat": "escalation",
+   "from": "w:29",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:deck_center",
+    "part": "body",
+    "head_pct": 7,
+    "side": "left",
+    "elev": 0.2
+   }
+  },
+  {
+   "id": "s06",
+   "beat": "escalation",
+   "from": "w:34",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -7.8,
+     4.3,
+     0.3
+    ],
+    "head_pct": 18,
+    "side": "right"
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -7.5,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "neutral"
+     },
+     "blink": [
+      "w:39"
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -7.5,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -7.5,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -7.5,
+      3.2,
+      -0.9
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -8.8,
+      3.2,
+      0.9
+     ]
+    },
+    {
+     "who": "rifleman",
+     "at": [
+      -8.8,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -8.8,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -8.8,
+      3.2,
+      -0.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "beat": "escalation",
+   "from": "w:43",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:deck_left",
+    "part": "feet",
+    "head_pct": 16,
+    "side": "left",
+    "elev": -0.02
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -5.0,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "lookY": 0.7
+     },
+     "steps": {
+      "expr": [
+       [
+        "start",
+        "neutral"
+       ],
+       [
+        "w:48",
+        "surprised"
+       ]
+      ]
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -5.0,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.0,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -6.4,
+      3.2,
+      0.9
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -6.4,
+      3.2,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "beat": "escalation",
+   "from": "w:54",
+   "set": "bridge",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     -5.0,
+     4.63,
+     0.3
+    ],
+    "side": "right"
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "rifleman_b",
+     "at": [
+      -5.0,
+      3.2,
+      0.3
+     ],
+     "steps": {
+      "expr": [
+       [
+        "start",
+        "happy"
+       ],
+       [
+        "w:59",
+        "laughing"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "beat": "escalation",
+   "from": "w:63",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -5.4,
+     4.4,
+     0.6
+    ],
+    "head_pct": 20,
+    "side": "left"
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -5.0,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "happy"
+     },
+     "steps": {
+      "mouth": [
+       [
+        "start",
+        "open"
+       ],
+       [
+        "w:68",
+        "smile"
+       ]
+      ]
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -5.0,
+      3.2,
+      0.3
+     ],
+     "pose": {
+      "expr": "laughing"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.0,
+      3.2,
+      -0.3
+     ],
+     "pose": {
+      "expr": "happy"
+     },
+     "steps": {
+      "mouth": [
+       [
+        "start",
+        "open"
+       ]
+      ]
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -6.4,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -6.4,
+      3.2,
+      0.3
+     ],
+     "pose": {
+      "expr": "laughing"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "beat": "escalation",
+   "from": "w:73",
+   "set": "bridge",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     -5.0,
+     4.63,
+     0.9
+    ],
+    "side": "right",
+    "roll": [
+     -2.5,
+     2.5
+    ]
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -5.0,
+      3.2,
+      0.9
+     ],
+     "steps": {
+      "expr": [
+       [
+        "start",
+        "surprised"
+       ],
+       [
+        "w:75",
+        "worried"
+       ]
+      ]
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.0,
+      3.2,
+      -0.3
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "beat": "escalation",
+   "from": "w:77",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -6.5,
+     2.2,
+     0.0
+    ],
+    "head_pct": 11,
+    "side": "right",
+    "elev": 0.16
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -5.6,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "surprised"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -5.6,
+      3.2,
+      0.3
+     ],
+     "pose": {
+      "expr": "surprised"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -6.8,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "surprised"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -6.8,
+      3.2,
+      0.3
+     ],
+     "pose": {
+      "expr": "surprised"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "beat": "escalation",
+   "from": "w:81",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -6.3,
+     0.5,
+     1.6
+    ],
+    "head_pct": 18,
+    "side": "left",
+    "elev": 0.18
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -6.0,
+      -0.75,
+      2.2
+     ],
+     "pose": {
+      "expr": "surprised",
+      "armL": 1.2,
+      "armR": 1.6
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -7.2,
+      -0.8,
+      1.2
+     ],
+     "pose": {
+      "expr": "surprised",
+      "armR": 2.0
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.2,
+      -0.85,
+      0.8
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "beat": "escalation",
+   "from": "w:89",
+   "set": "bridge",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     -6.0,
+     0.98,
+     2.2
+    ],
+    "side": "right",
+    "elev": 0.18
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -6.0,
+      -0.45,
+      2.2
+     ],
+     "pose": {
+      "lookY": 0.6
+     },
+     "steps": {
+      "expr": [
+       [
+        "start",
+        "surprised"
+       ],
+       [
+        "w:92",
+        "happy"
+       ]
+      ]
+     },
+     "blink": [
+      "w:93"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "beat": "escalation",
+   "from": "w:95",
+   "set": "bridge",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -6.2,
+     0.8,
+     1.6
+    ],
+    "head_pct": 22,
+    "side": "left",
+    "elev": 0.18
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -6.0,
+      -0.45,
+      2.2
+     ],
+     "pose": {
+      "expr": "sad"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -7.2,
+      -0.45,
+      1.2
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.0,
+      -0.45,
+      1.0
+     ],
+     "pose": {
+      "expr": "sad"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -7.8,
+      -0.45,
+      2.4
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "beat": "turn",
+   "from": "w:102",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -9.4,
+     4.4,
+     1.5
+    ],
+    "head_pct": 14,
+    "side": "left",
+    "elev": 0.1
+   }
+  },
+  {
+   "id": "s16",
+   "beat": "turn",
+   "from": "w:111",
+   "set": "bridge",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     -6.0,
+     0.98,
+     2.2
+    ],
+    "side": "left",
+    "elev": 0.18
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -6.0,
+      -0.45,
+      2.2
+     ],
+     "pose": {
+      "expr": "thinking",
+      "lookY": -0.8,
+      "lookX": -0.4
+     },
+     "blink": [
+      "w:116"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "beat": "you-see",
+   "from": "w:120",
+   "set": "insert",
+   "camera": {
+    "preset": "push_in"
+   },
+   "insert": {
+    "background": "paper",
+    "shapes": [
+     {
+      "type": "rect",
+      "x": 150,
+      "y": 520,
+      "w": 70,
+      "h": 560,
+      "fill": "#8a8aa0",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 860,
+      "y": 520,
+      "w": 70,
+      "h": 560,
+      "fill": "#8a8aa0",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 150,
+      "y": 880,
+      "w": 780,
+      "h": 44,
+      "fill": "#c79c74",
+      "radius": 12,
+      "at": "start"
+     },
+     {
+      "type": "dots",
+      "x": 300,
+      "y": 820,
+      "w": 480,
+      "h": 40,
+      "n": 10,
+      "r": 16,
+      "fill": "#3f6b4f",
+      "seed": 3,
+      "at": "w:122"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       540,
+       860
+      ],
+      "to": [
+       540,
+       660
+      ],
+      "color": "#b5443a",
+      "width": 22,
+      "at": "w:126"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       540,
+       950
+      ],
+      "to": [
+       540,
+       1150
+      ],
+      "color": "#b5443a",
+      "width": 22,
+      "at": "w:127"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s18",
+   "beat": "reveal",
+   "from": "w:129",
+   "set": "insert",
+   "camera": {
+    "preset": "push_in"
+   },
+   "insert": {
+    "background": "paper",
+    "shapes": [
+     {
+      "type": "rect",
+      "x": 240,
+      "y": 360,
+      "w": 600,
+      "h": 40,
+      "fill": "#8a8aa0",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 452,
+      "y": 400,
+      "w": 14,
+      "h": 540,
+      "fill": "#6a4a36",
+      "radius": 4,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 614,
+      "y": 400,
+      "w": 14,
+      "h": 540,
+      "fill": "#6a4a36",
+      "radius": 4,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 420,
+      "y": 930,
+      "w": 240,
+      "h": 36,
+      "fill": "#c79c74",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "circle",
+      "x": 540,
+      "y": 860,
+      "r": 62,
+      "fill": "#f4e6d4",
+      "at": "w:131"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       150,
+       960
+      ],
+      "to": [
+       390,
+       950
+      ],
+      "color": "#b5443a",
+      "width": 26,
+      "at": "w:133"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       150,
+       1060
+      ],
+      "to": [
+       390,
+       1000
+      ],
+      "color": "#b5443a",
+      "width": 26,
+      "at": "w:138"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s19",
+   "beat": "reveal",
+   "from": "w:140",
+   "set": "insert",
+   "camera": {
+    "preset": "pull_out"
+   },
+   "insert": {
+    "background": "paper",
+    "shapes": [
+     {
+      "type": "rect",
+      "x": 240,
+      "y": 360,
+      "w": 600,
+      "h": 40,
+      "fill": "#8a8aa0",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "circle",
+      "x": 540,
+      "y": 380,
+      "r": 26,
+      "fill": "#6a4a36",
+      "at": "start"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       600,
+       1000
+      ],
+      "to": [
+       700,
+       930
+      ],
+      "color": "#b5443a",
+      "width": 20,
+      "at": "w:140"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       600,
+       1060
+      ],
+      "to": [
+       820,
+       840
+      ],
+      "color": "#b5443a",
+      "width": 24,
+      "at": "w:144"
+     },
+     {
+      "type": "arrow",
+      "from": [
+       600,
+       1120
+      ],
+      "to": [
+       930,
+       680
+      ],
+      "color": "#b5443a",
+      "width": 28,
+      "at": "w:146"
+     },
+     {
+      "type": "circle",
+      "x": 930,
+      "y": 640,
+      "r": 62,
+      "fill": "#f4e6d4",
+      "at": "w:147"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s20",
+   "beat": "reveal",
+   "from": "w:148",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:deck_left",
+    "part": "feet",
+    "head_pct": 16,
+    "side": "right",
+    "elev": -0.02
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -5.0,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "neutral"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -5.0,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -5.0,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -6.4,
+      3.2,
+      0.9
+     ]
+    },
+    {
+     "who": "rifleman",
+     "at": [
+      -6.4,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -6.4,
+      3.2,
+      -0.3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "beat": "reveal",
+   "from": "w:154",
+   "set": "bridge",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -3.0,
+     4.1,
+     0.0
+    ],
+    "head_pct": 14,
+    "side": "left",
+    "elev": 0.14
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -2.0,
+      3.2,
+      0.9
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -2.0,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -2.0,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -2.0,
+      3.2,
+      -0.9
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -3.4,
+      3.2,
+      0.9
+     ]
+    },
+    {
+     "who": "rifleman",
+     "at": [
+      -3.4,
+      3.2,
+      0.3
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -3.4,
+      3.2,
+      -0.3
+     ]
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -3.4,
+      3.2,
+      -0.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s22",
+   "beat": "ending",
+   "from": "w:162",
+   "transition_in": "cut",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -11.0,
+     4.9,
+     2.1
+    ],
+    "head_pct": 30,
+    "side": "right"
+   }
+  },
+  {
+   "id": "s23",
+   "beat": "ending",
+   "from": "w:170",
+   "set": "bridge",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -1.5,
+     4.2,
+     0.4
+    ],
+    "head_pct": 15,
+    "side": "left",
+    "elev": 0.1
+   },
+   "actors": [
+    {
+     "who": "rifleman",
+     "at": [
+      -1.2,
+      3.2,
+      1.0
+     ],
+     "pose": {
+      "expr": "happy"
+     },
+     "blink": [
+      "w:173"
+     ]
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      -3.1,
+      3.2,
+      0.1
+     ],
+     "pose": {
+      "expr": "happy",
+      "lookX": 0.5
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      0.6,
+      3.2,
+      -0.6
+     ],
+     "pose": {
+      "expr": "neutral"
+     }
+    },
+    {
+     "who": "rifleman_c",
+     "at": [
+      -2.4,
+      3.2,
+      -0.9
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    },
+    {
+     "who": "rifleman_b",
+     "at": [
+      1.8,
+      3.2,
+      0.5
+     ],
+     "pose": {
+      "expr": "neutral",
+      "lookX": -0.4
+     }
+    }
+   ]
+  }
+ ]
+}

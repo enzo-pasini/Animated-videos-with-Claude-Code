@@ -1,0 +1,743 @@
+[
+ {
+  "name": "01_saloon_three_characters",
+  "video": "5WMQhPObNqQ",
+  "t": 6.0,
+  "world_look": "rendered, no outlines",
+  "characters": [
+   {
+    "label": "left, glasses",
+    "fill_box": [
+     51,
+     595,
+     320,
+     846
+    ],
+    "fill_w_px": 270,
+    "fill_h_px": 252,
+    "outline_px": 21.0,
+    "outline_by_side_px": {
+     "left": 21.0,
+     "right": 25.0,
+     "down": 37.0
+    },
+    "head_unit_px": 312.0,
+    "outline_pct_head": 6.7,
+    "chin_y_px": 867,
+    "fill_share_of_box": 0.594,
+    "head_unit_pct_w": 28.9,
+    "head_sharpness": {
+     "acutance": 2.514,
+     "sigma_px": 1.27,
+     "contrast": 218.0
+    },
+    "height_px": 895,
+    "height_pct_frame": 46.6,
+    "height_in_head_widths": 2.87,
+    "leg_px": 11.0,
+    "leg_pct_head": 3.5
+   },
+   {
+    "label": "right, cap",
+    "fill_box": [
+     789,
+     626,
+     1065,
+     807
+    ],
+    "fill_w_px": 277,
+    "fill_h_px": 182,
+    "outline_px": 12.0,
+    "outline_by_side_px": {
+     "left": 12.0,
+     "right": 21.5,
+     "down": 59.0
+    },
+    "head_unit_px": 301.0,
+    "outline_pct_head": 4.0,
+    "chin_y_px": 819,
+    "fill_share_of_box": 0.72,
+    "head_unit_pct_w": 27.9,
+    "head_sharpness": {
+     "acutance": 2.721,
+     "sigma_px": 1.17,
+     "contrast": 197.0
+    },
+    "height_px": 922,
+    "height_pct_frame": 48.0,
+    "height_in_head_widths": 3.06,
+    "leg_px": 4.0,
+    "leg_pct_head": 1.3
+   },
+   {
+    "label": "middle, leaning",
+    "fill_box": [
+     430,
+     708,
+     675,
+     922
+    ],
+    "fill_w_px": 246,
+    "fill_h_px": 215,
+    "outline_px": 6.0,
+    "outline_by_side_px": {
+     "left": 6.0,
+     "right": 15.5,
+     "down": 21.0
+    },
+    "head_unit_px": 258.0,
+    "outline_pct_head": 2.3,
+    "chin_y_px": 928,
+    "fill_share_of_box": 0.731,
+    "head_unit_pct_w": 23.9,
+    "head_sharpness": {
+     "acutance": 4.248,
+     "sigma_px": 0.75,
+     "contrast": 215.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 3.655,
+    "sigma_px": 0.87,
+    "contrast": 165.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0374,
+    "stroke_px": 4.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 0.74
+ },
+ {
+  "name": "02_canyon_walking_closeup",
+  "video": "7xS87iActkU",
+  "t": 54.9,
+  "world_look": "rendered, no outlines",
+  "characters": [
+   {
+    "label": "engineer",
+    "fill_box": [
+     271,
+     352,
+     734,
+     709
+    ],
+    "fill_w_px": 464,
+    "fill_h_px": 358,
+    "outline_px": 21.0,
+    "outline_by_side_px": {
+     "left": 21.0,
+     "right": 59.0,
+     "down": 59.0
+    },
+    "head_unit_px": 506.0,
+    "outline_pct_head": 4.2,
+    "chin_y_px": 730,
+    "fill_share_of_box": 0.659,
+    "head_unit_pct_w": 46.9,
+    "head_sharpness": {
+     "acutance": 3.757,
+     "sigma_px": 0.85,
+     "contrast": 207.0
+    },
+    "leg_px": 22.0,
+    "leg_pct_head": 4.3
+   }
+  ],
+  "background": [
+   {
+    "acutance": 4.443,
+    "sigma_px": 0.72,
+    "contrast": 86.0
+   },
+   {
+    "acutance": 1.375,
+    "sigma_px": 2.32,
+    "contrast": 139.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0316,
+    "stroke_px": 2.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 2.73
+ },
+ {
+  "name": "03_town_mother_and_son",
+  "video": "ZDy3xXA2iHk",
+  "t": 30.7,
+  "world_look": "rendered, no outlines",
+  "characters": [
+   {
+    "label": "mother",
+    "fill_box": [
+     206,
+     880,
+     443,
+     1059
+    ],
+    "fill_w_px": 238,
+    "fill_h_px": 180,
+    "outline_px": 13.0,
+    "outline_by_side_px": {
+     "left": 59.0,
+     "right": 13.0,
+     "down": 59.0
+    },
+    "head_unit_px": 264.0,
+    "outline_pct_head": 4.9,
+    "chin_y_px": 1072,
+    "fill_share_of_box": 0.581,
+    "head_unit_pct_w": 24.4,
+    "head_sharpness": {
+     "acutance": 4.488,
+     "sigma_px": 0.71,
+     "contrast": 203.0
+    },
+    "height_px": 795,
+    "height_pct_frame": 41.4,
+    "height_in_head_widths": 3.01,
+    "leg_px": 13.0,
+    "leg_pct_head": 4.9
+   },
+   {
+    "label": "son",
+    "fill_box": [
+     614,
+     923,
+     874,
+     1060
+    ],
+    "fill_w_px": 261,
+    "fill_h_px": 138,
+    "outline_px": 4.5,
+    "outline_by_side_px": {
+     "left": 9.0,
+     "right": 4.5,
+     "down": 59.0
+    },
+    "head_unit_px": 270.0,
+    "outline_pct_head": 1.7,
+    "chin_y_px": 1064,
+    "fill_share_of_box": 0.665,
+    "head_unit_pct_w": 25.0,
+    "head_sharpness": {
+     "acutance": 3.832,
+     "sigma_px": 0.83,
+     "contrast": 207.0
+    },
+    "height_px": 857,
+    "height_pct_frame": 44.6,
+    "height_in_head_widths": 3.17,
+    "leg_px": 15.0,
+    "leg_pct_head": 5.6
+   }
+  ],
+  "background": [
+   {
+    "acutance": 0.922,
+    "sigma_px": 3.46,
+    "contrast": 82.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0095,
+    "stroke_px": 2.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 4.49
+ },
+ {
+  "name": "04_office_cel_outlined_world",
+  "video": "0m6G8pDtzNs",
+  "t": 43.4,
+  "world_look": "cel-shaded, thick black outlines",
+  "characters": [
+   {
+    "label": "office worker",
+    "fill_box": [
+     533,
+     865,
+     706,
+     983
+    ],
+    "fill_w_px": 174,
+    "fill_h_px": 119,
+    "outline_px": 4.0,
+    "outline_by_side_px": {
+     "left": 4.0,
+     "right": 15.0,
+     "down": 11.0
+    },
+    "head_unit_px": 182.0,
+    "outline_pct_head": 2.2,
+    "chin_y_px": 987,
+    "fill_share_of_box": 0.697,
+    "head_unit_pct_w": 16.9,
+    "head_sharpness": {
+     "acutance": 4.48,
+     "sigma_px": 0.71,
+     "contrast": 205.0
+    },
+    "height_px": 481,
+    "height_pct_frame": 25.1,
+    "height_in_head_widths": 2.65,
+    "leg_px": 10.0,
+    "leg_pct_head": 5.5
+   }
+  ],
+  "background": [
+   {
+    "acutance": 3.965,
+    "sigma_px": 0.8,
+    "contrast": 30.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.027,
+    "stroke_px": 4.0
+   },
+   {
+    "line_density": 0.0727,
+    "stroke_px": 4.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 1.13
+ },
+ {
+  "name": "05_prize_counter_warm",
+  "video": "eQR3pgMiUF0",
+  "t": 21.1,
+  "world_look": "rendered + thin line art",
+  "characters": [
+   {
+    "label": "orange shirt",
+    "fill_box": [
+     161,
+     698,
+     484,
+     936
+    ],
+    "fill_w_px": 324,
+    "fill_h_px": 239,
+    "outline_px": 23.0,
+    "outline_by_side_px": {
+     "left": 54.0,
+     "right": 23.0,
+     "down": 29.0
+    },
+    "head_unit_px": 370.0,
+    "outline_pct_head": 6.2,
+    "chin_y_px": 959,
+    "fill_share_of_box": 0.629,
+    "head_unit_pct_w": 34.3,
+    "head_sharpness": {
+     "acutance": 3.819,
+     "sigma_px": 0.84,
+     "contrast": 173.0
+    },
+    "height_px": 1139,
+    "height_pct_frame": 59.3,
+    "height_in_head_widths": 3.08,
+    "leg_px": 15.0,
+    "leg_pct_head": 4.1
+   },
+   {
+    "label": "clerk",
+    "fill_box": [
+     653,
+     805,
+     864,
+     964
+    ],
+    "fill_w_px": 212,
+    "fill_h_px": 160,
+    "outline_px": 18.5,
+    "outline_by_side_px": {
+     "left": 18.5,
+     "right": 39.0,
+     "down": 59.0
+    },
+    "head_unit_px": 249.0,
+    "outline_pct_head": 7.4,
+    "chin_y_px": 982,
+    "fill_share_of_box": 0.7,
+    "head_unit_pct_w": 23.1,
+    "head_sharpness": {
+     "acutance": 3.695,
+     "sigma_px": 0.86,
+     "contrast": 180.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 3.44,
+    "sigma_px": 0.93,
+    "contrast": 156.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0263,
+    "stroke_px": 2.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 1.09
+ },
+ {
+  "name": "06_alley_night_cool",
+  "video": "eQR3pgMiUF0",
+  "t": 29.5,
+  "world_look": "rendered + thin line art",
+  "characters": [
+   {
+    "label": "orange shirt",
+    "fill_box": [
+     125,
+     940,
+     388,
+     1113
+    ],
+    "fill_w_px": 264,
+    "fill_h_px": 174,
+    "outline_px": 20.0,
+    "outline_by_side_px": {
+     "left": 59.0,
+     "right": 20.0,
+     "down": 59.0
+    },
+    "head_unit_px": 304.0,
+    "outline_pct_head": 6.6,
+    "chin_y_px": 1133,
+    "fill_share_of_box": 0.664,
+    "head_unit_pct_w": 28.1,
+    "head_sharpness": {
+     "acutance": 3.67,
+     "sigma_px": 0.87,
+     "contrast": 123.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 3.276,
+    "sigma_px": 0.97,
+    "contrast": 212.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0236,
+    "stroke_px": 2.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 1.11
+ },
+ {
+  "name": "07_pirates_deck",
+  "video": "lnYLIWP2l-I",
+  "t": 41.6,
+  "world_look": "rendered, no outlines",
+  "characters": [
+   {
+    "label": "bandana",
+    "fill_box": [
+     180,
+     597,
+     461,
+     757
+    ],
+    "fill_w_px": 282,
+    "fill_h_px": 161,
+    "outline_px": 8.5,
+    "outline_by_side_px": {
+     "left": 8.5,
+     "right": 21.0,
+     "down": 22.0
+    },
+    "head_unit_px": 299.0,
+    "outline_pct_head": 2.8,
+    "chin_y_px": 765,
+    "fill_share_of_box": 0.611,
+    "head_unit_pct_w": 27.7,
+    "head_sharpness": {
+     "acutance": 4.535,
+     "sigma_px": 0.7,
+     "contrast": 131.0
+    },
+    "height_px": 936,
+    "height_pct_frame": 48.7,
+    "height_in_head_widths": 3.13,
+    "leg_px": 18.0,
+    "leg_pct_head": 6.0
+   },
+   {
+    "label": "captain",
+    "fill_box": [
+     570,
+     546,
+     835,
+     753
+    ],
+    "fill_w_px": 266,
+    "fill_h_px": 208,
+    "outline_px": 7.0,
+    "outline_by_side_px": {
+     "left": 7.0,
+     "right": 18.0,
+     "down": 40.5
+    },
+    "head_unit_px": 280.0,
+    "outline_pct_head": 2.5,
+    "chin_y_px": 760,
+    "fill_share_of_box": 0.717,
+    "head_unit_pct_w": 25.9,
+    "head_sharpness": {
+     "acutance": 4.503,
+     "sigma_px": 0.71,
+     "contrast": 133.0
+    },
+    "height_px": 893,
+    "height_pct_frame": 46.5,
+    "height_in_head_widths": 3.19,
+    "leg_px": 11.0,
+    "leg_pct_head": 3.9
+   }
+  ],
+  "background": [
+   {
+    "acutance": 3.175,
+    "sigma_px": 1.0,
+    "contrast": 96.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0253,
+    "stroke_px": 4.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 1.42
+ },
+ {
+  "name": "08_castle_night_lineart",
+  "video": "VS1Z_Q-Klt8",
+  "t": 42.5,
+  "world_look": "illustrated, thin line art",
+  "characters": [
+   {
+    "label": "guard",
+    "fill_box": [
+     533,
+     1088,
+     827,
+     1277
+    ],
+    "fill_w_px": 295,
+    "fill_h_px": 190,
+    "outline_px": 10.0,
+    "outline_by_side_px": {
+     "left": 10.0,
+     "right": 24.0,
+     "down": 59.0
+    },
+    "head_unit_px": 315.0,
+    "outline_pct_head": 3.2,
+    "chin_y_px": 1287,
+    "fill_share_of_box": 0.68,
+    "head_unit_pct_w": 29.2,
+    "head_sharpness": {
+     "acutance": 4.137,
+     "sigma_px": 0.77,
+     "contrast": 163.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 4.766,
+    "sigma_px": 0.67,
+    "contrast": 60.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.1051,
+    "stroke_px": 2.0
+   },
+   {
+    "line_density": 0.1498,
+    "stroke_px": 2.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 0.87
+ },
+ {
+  "name": "09_lake_sunset_memory",
+  "video": "t3OXkhlI6NQ",
+  "t": 41.3,
+  "world_look": "painted, no outlines",
+  "characters": [
+   {
+    "label": "Jerry",
+    "fill_box": [
+     520,
+     808,
+     705,
+     956
+    ],
+    "fill_w_px": 186,
+    "fill_h_px": 149,
+    "outline_px": 7.0,
+    "outline_by_side_px": {
+     "left": 7.0,
+     "right": 57.0,
+     "down": 59.0
+    },
+    "head_unit_px": 200.0,
+    "outline_pct_head": 3.5,
+    "chin_y_px": 963,
+    "fill_share_of_box": 0.597,
+    "head_unit_pct_w": 18.5,
+    "head_sharpness": {
+     "acutance": 4.007,
+     "sigma_px": 0.8,
+     "contrast": 203.0
+    },
+    "leg_px": 11.0,
+    "leg_pct_head": 5.5
+   },
+   {
+    "label": "brother",
+    "fill_box": [
+     771,
+     901,
+     872,
+     940
+    ],
+    "fill_w_px": 102,
+    "fill_h_px": 40,
+    "outline_px": 9.0,
+    "outline_by_side_px": {
+     "left": 58.0,
+     "right": 58.0,
+     "down": 9.0
+    },
+    "head_unit_px": 120.0,
+    "outline_pct_head": 7.5,
+    "chin_y_px": 949,
+    "fill_share_of_box": 0.573,
+    "head_unit_pct_w": 11.1,
+    "head_sharpness": {
+     "acutance": 4.271,
+     "sigma_px": 0.75,
+     "contrast": 218.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 1.943,
+    "sigma_px": 1.64,
+    "contrast": 141.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.1032,
+    "stroke_px": 4.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 2.12
+ },
+ {
+  "name": "10_casino_depth_of_field",
+  "video": "CJwgTrfrHL0",
+  "t": 10.6,
+  "world_look": "rendered, no outlines",
+  "characters": [
+   {
+    "label": "buddy, red cap",
+    "fill_box": [
+     93,
+     699,
+     565,
+     1030
+    ],
+    "fill_w_px": 473,
+    "fill_h_px": 332,
+    "outline_px": 38.0,
+    "outline_by_side_px": {
+     "left": 59.0,
+     "right": 38.0,
+     "down": 38.0
+    },
+    "head_unit_px": 549.0,
+    "outline_pct_head": 6.9,
+    "chin_y_px": 1068,
+    "fill_share_of_box": 0.615,
+    "head_unit_pct_w": 50.8,
+    "head_sharpness": {
+     "acutance": 2.295,
+     "sigma_px": 1.39,
+     "contrast": 221.0
+    }
+   },
+   {
+    "label": "player",
+    "fill_box": [
+     588,
+     712,
+     1004,
+     1048
+    ],
+    "fill_w_px": 417,
+    "fill_h_px": 337,
+    "outline_px": 36.0,
+    "outline_by_side_px": {
+     "left": 39.5,
+     "right": 59.0,
+     "down": 36.0
+    },
+    "head_unit_px": 489.0,
+    "outline_pct_head": 7.4,
+    "chin_y_px": 1084,
+    "fill_share_of_box": 0.714,
+    "head_unit_pct_w": 45.3,
+    "head_sharpness": {
+     "acutance": 2.487,
+     "sigma_px": 1.28,
+     "contrast": 223.0
+    }
+   }
+  ],
+  "background": [
+   {
+    "acutance": 1.339,
+    "sigma_px": 2.38,
+    "contrast": 105.0
+   },
+   {
+    "acutance": 0.221,
+    "sigma_px": 14.42,
+    "contrast": 110.0
+   }
+  ],
+  "world": [
+   {
+    "line_density": 0.0134,
+    "stroke_px": 8.0
+   }
+  ],
+  "bg_vs_head_sigma_ratio": 10.8
+ }
+]

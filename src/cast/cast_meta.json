@@ -1,0 +1,16 @@
+{
+  "_about": "Cast metadata shared by src/cast/registry.ts and tools/variety_check.py. silhouette = the ONE strong silhouette item (STYLE_SHEET 1.3); mainColor = the color that reads first. D9: a new main character every video; the variety check compares these with the last 5 videos. gender (male/female) picks the head shape (PLAN D19: male = gumdrop, female = chibi); optional head = a per-character override (src/character/head.ts).",
+  "pell": { "name": "Pell", "role": "old night clockmaker", "silhouette": "side hair clouds + loupe", "mainColor": "#cf9e45", "locked": true, "gender": "male" },
+  "juno": { "name": "Juno", "role": "night courier", "silhouette": "pointed rain hood", "mainColor": "#efbb2c", "locked": true, "gender": "male", "head": "chibi" },
+  "bram": { "name": "Bram", "role": "lamplighter", "silhouette": "floppy knit cap + pole", "mainColor": "#b5443a", "locked": true, "gender": "male" },
+  "mira": { "name": "Mira", "role": "harbor clerk", "silhouette": "hair bun + round glasses", "mainColor": "#5f8f4e", "locked": false, "gender": "female" },
+  "rifleman": { "name": "Rifleman", "role": "rifleman, 1831", "silhouette": "tall shako + upright rifle", "mainColor": "#3f6b4f", "locked": false, "gender": "male" },
+  "rifleman_b": { "name": "Rifleman B", "role": "rifleman, 1831 (ranks)", "silhouette": "tall shako + upright rifle", "mainColor": "#3f6b4f", "locked": false, "gender": "male" },
+  "rifleman_c": { "name": "Rifleman C", "role": "rifleman, 1831 (ranks)", "silhouette": "tall shako + upright rifle", "mainColor": "#3f6b4f", "locked": false, "gender": "male" },
+  "lena": { "name": "Lena", "role": "girl in the old house (furnace-ghosts)", "silhouette": "two braids with ribbons + star pajamas", "mainColor": "#b06a8e", "locked": false, "gender": "female" },
+  "lena_mom": { "name": "Lena's mother", "role": "mother (furnace-ghosts)", "silhouette": "long wavy hair + belted robe", "mainColor": "#4f7f9a", "locked": false, "gender": "female" },
+  "lena_dad": { "name": "Lena's father", "role": "father (furnace-ghosts)", "silhouette": "mustache + argyle sweater vest", "mainColor": "#c79a3e", "locked": false, "gender": "male" },
+  "priest": { "name": "Priest", "role": "priest who blesses the house (furnace-ghosts)", "silhouette": "black cassock + white collar + prayer book", "mainColor": "#26222e", "locked": false, "gender": "male" },
+  "repairman": { "name": "Repairman", "role": "furnace repairman (furnace-ghosts)", "silhouette": "flat cap + overalls + big wrench", "mainColor": "#4f6fa8", "locked": false, "gender": "male" },
+  "coat_man": { "name": "The man in the dark coat", "role": "the 'ghost' (a hallucination, furnace-ghosts)", "silhouette": "wide-brim hat pulled low + long dark coat", "mainColor": "#2a2836", "locked": false, "gender": "male" }
+}

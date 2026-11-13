@@ -1,0 +1,2 @@
+file | title | author | license | source page
+mountain_cabin.glb | Mountain Cabin | Alex Safayan | CC-BY 3.0 - REFERENCE ONLY (never loaded by a set) | https://poly.pizza/m/cspkBmqAq8g

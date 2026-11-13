@@ -1,0 +1,140 @@
+{
+ "caption_coverage": 0.995,
+ "caption_x_height_px": {
+  "p10": 39.0,
+  "p50": 40.6,
+  "p90": 42.6
+ },
+ "caption_ascender_px": {
+  "p10": 44.9,
+  "p50": 53.0,
+  "p90": 55.7
+ },
+ "caption_box_h_px": {
+  "p10": 53.0,
+  "p50": 55.0,
+  "p90": 68.0
+ },
+ "caption_box_w_px": {
+  "p10": 136.0,
+  "p50": 242.0,
+  "p90": 397.0
+ },
+ "caption_center_y": {
+  "p10": 0.703,
+  "p50": 0.703,
+  "p90": 0.707
+ },
+ "caption_center_x": {
+  "p10": 0.498,
+  "p50": 0.499,
+  "p90": 0.501
+ },
+ "caption_words_share": {
+  "1": 0.674,
+  "2": 0.281,
+  "3": 0.039,
+  "4": 0.002
+ },
+ "caption_outline_px": {
+  "up": {
+   "p10": 5.0,
+   "p50": 6.0,
+   "p90": 21.0
+  },
+  "down": {
+   "p10": 9.0,
+   "p50": 10.0,
+   "p90": 28.0
+  },
+  "left": {
+   "p10": 7.0,
+   "p50": 11.0,
+   "p90": 30.0
+  },
+  "right": {
+   "p10": 10.0,
+   "p50": 13.0,
+   "p90": 30.0
+  }
+ },
+ "caption_soft_px": {
+  "up": {
+   "p10": 9.0,
+   "p50": 13.0,
+   "p90": 22.0
+  },
+  "down": {
+   "p10": 12.0,
+   "p50": 13.0,
+   "p90": 19.0
+  },
+  "left": {
+   "p10": 8.0,
+   "p50": 12.0,
+   "p90": 15.0
+  },
+  "right": {
+   "p10": 12.0,
+   "p50": 15.0,
+   "p90": 20.0
+  }
+ },
+ "blur_sigma_sharp_px": {
+  "p10": 0.36,
+  "p50": 0.62,
+  "p90": 0.751
+ },
+ "blur_sigma_soft_px": {
+  "p10": 0.79,
+  "p50": 1.14,
+  "p90": 3.589
+ },
+ "blur_ratio": {
+  "p10": 1.42,
+  "p50": 2.095,
+  "p90": 5.116
+ },
+ "line_stroke_px_by_video": {
+  "0m6G8pDtzNs": 3.82,
+  "5WMQhPObNqQ": 1.91,
+  "7xS87iActkU": 1.91,
+  "_sUAXTvJquk": 1.91,
+  "CJwgTrfrHL0": 1.91,
+  "DEe0iKH4KIw": 1.91,
+  "eQR3pgMiUF0": 1.91,
+  "GM9UKnZ6JFw": 1.91,
+  "hdhggSABEws": 1.91,
+  "jpFJ8Z_F-qU": 1.91,
+  "LC8hYwUZ-kU": 1.91,
+  "lnYLIWP2l-I": 1.91,
+  "Mz72MuPgnGY": 1.91,
+  "nzbkkEZFM8g": 1.91,
+  "PLe2Gu3FDuA": 1.91,
+  "t3OXkhlI6NQ": 2.325,
+  "TgyHSIttwdM": 1.91,
+  "VKsamN3Fk4U": 2.865,
+  "VS1Z_Q-Klt8": 1.91,
+  "ZDy3xXA2iHk": 1.91
+ },
+ "light_time_share": {
+  "warm": 0.477,
+  "cool": 0.355,
+  "mixed": 0.168
+ },
+ "videos_with_warm_and_cool": 18,
+ "warm_cool_switches": {
+  "p10": 1.8,
+  "p50": 4.0,
+  "p90": 6.0
+ },
+ "lab_b_range": {
+  "p10": 38.53,
+  "p50": 60.1,
+  "p90": 87.88
+ },
+ "cool_share_before_turn": 0.452,
+ "cool_share_after_turn": 0.436,
+ "videos_with_light_flip_within_4s_of_turn": 9,
+ "expected_by_chance": 8.2
+}

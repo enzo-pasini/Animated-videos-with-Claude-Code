@@ -1,0 +1,179 @@
+{
+ "_about": "Planned cameras of the lena_bedroom set (videos/2026-11-12-furnace-ghosts, set_plan.md). Read by tools/camera_view.py and tools/before_after.py. Not read by the renderer. Actors are stand-ins (mira = Lena / mom, bram = the dark-coat man, juno = dad) until the new cast exists.",
+ "set": "lena_bedroom",
+ "lights": {
+  "lamp": 1,
+  "plant": 0,
+  "sitter": 1
+ },
+ "cameras": [
+  {
+   "id": "C1",
+   "label": "close: Lena in bed (s03, s10, s12)",
+   "target": [
+    -1.2,
+    0.95,
+    -1.5
+   ],
+   "dir": [
+    0.5,
+    0.12,
+    0.86
+   ],
+   "d0": 2.3,
+   "fov": 30,
+   "rate": 0.09,
+   "drift": [
+    -0.05,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "mira",
+     [
+      -1.2,
+      -0.215,
+      -1.5
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C2",
+   "label": "medium: the man at the foot of the bed (s05, s21)",
+   "target": [
+    -1.2,
+    1.25,
+    0.45
+   ],
+   "dir": [
+    0.82,
+    0.05,
+    0.57
+   ],
+   "d0": 2.5,
+   "fov": 40,
+   "rate": 0.13,
+   "drift": [
+    -0.06,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "bram",
+     [
+      -1.2,
+      0.0,
+      0.45
+     ]
+    ],
+    [
+     "mira",
+     [
+      -1.2,
+      -0.215,
+      -1.5
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C3",
+   "label": "medium: the door, dad + priest (s09)",
+   "target": [
+    1.55,
+    1.2,
+    0.55
+   ],
+   "dir": [
+    -0.72,
+    0.06,
+    0.69
+   ],
+   "d0": 2.2,
+   "fov": 40,
+   "rate": 0.13,
+   "drift": [
+    0.06,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "juno",
+     [
+      1.75,
+      0.0,
+      0.75
+     ]
+    ],
+    [
+     "pell",
+     [
+      1.2,
+      0.0,
+      0.35
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C4",
+   "label": "wide: the room (s06, s11, s14)",
+   "target": [
+    -0.4,
+    1.0,
+    -0.9
+   ],
+   "dir": [
+    0.55,
+    0.28,
+    0.79
+   ],
+   "d0": 2.6,
+   "fov": 44,
+   "rate": -0.1,
+   "drift": [
+    -0.08,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "mira",
+     [
+      -1.2,
+      -0.215,
+      -1.5
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C5",
+   "label": "close: the plant on the window sill (s08)",
+   "target": [
+    1.35,
+    1.25,
+    -2.0
+   ],
+   "dir": [
+    -0.3,
+    0.12,
+    0.95
+   ],
+   "d0": 1.9,
+   "fov": 40,
+   "rate": 0.13,
+   "drift": [
+    0.05,
+    0,
+    0
+   ],
+   "actors": []
+  }
+ ],
+ "_pull_out_note": "pull-out cameras (rate < 0) start close enough that d0 x 1.25 (2.5 s of pull) stays inside camera_bounds (S3 2026-11-13: C4 ended inside the front wall)"
+}

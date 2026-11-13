@@ -1,0 +1,220 @@
+{
+  "_about": "Data of the bridge set: an iron chain suspension bridge over a river by day (videos/2026-11-07-bridge-break-step), light preset dayExterior. Read by tools/build_props.py (marks, front), src/episode/sets.tsx and tools/check_render.py (light_kind). Marks = feet positions (m). Deck at y 3.2 from x -9 to 9; river along z at y 0; camera side +z.",
+  "id": "bridge",
+  "light_preset": "dayExterior",
+  "light_kind": "day",
+  "front": [
+    0,
+    0,
+    1
+  ],
+  "marks": {
+    "sign_spot": [
+      -10.4,
+      3.2,
+      1.0
+    ],
+    "sign": [
+      -11.2,
+      4.98,
+      2.1
+    ],
+    "road_left": [
+      -13.0,
+      3.2,
+      0.0
+    ],
+    "deck_entry": [
+      -7.5,
+      3.2,
+      0.0
+    ],
+    "deck_left": [
+      -5.0,
+      3.2,
+      0.0
+    ],
+    "deck_center": [
+      0.0,
+      3.2,
+      0.0
+    ],
+    "deck_right": [
+      5.0,
+      3.2,
+      0.0
+    ],
+    "water_corner": [
+      -8.0,
+      0.3,
+      0.4
+    ],
+    "river_center": [
+      0.0,
+      0.0,
+      6.0
+    ]
+  },
+  "mark_notes": {
+    "sign": "not a feet mark: the middle of the BREAK STEP notice (camera aim point)",
+    "water_corner": "not a feet mark: where the left end of the deck hits the water when drop = 1",
+    "river_center": "not a feet mark: water in front of the bridge (wide shots aim near here)"
+  },
+  "lights": {
+    "bounce": "deck bounce in time with the marching (0 = still, 1 = full)",
+    "drop": "the left end of the deck falls into the river (0 = whole, 1 = in the water)",
+    "march": "soldiers bob in step (0 = standing, 1 = marching)",
+    "sign": "the BREAK STEP notice at the left entrance (1 = there, today; 0 = hidden, 1831)"
+  },
+  "camera_bounds": {
+    "x": [
+      -30.0,
+      30.0
+    ],
+    "y": [
+      0.6,
+      20.0
+    ],
+    "z": [
+      -20.0,
+      25.0
+    ]
+  },
+  "_camera_bounds": "box the camera must stay inside; presets shorten their distance to fit",
+  "review": {
+    "_about": "tools/set_review.py: sun + shadow box of the light preset, points that must cast shadows, the sweep's center/radius and light levels",
+    "sun": [
+      42,
+      46,
+      24
+    ],
+    "shadow_size": 76,
+    "center": [
+      0,
+      3.5,
+      -4
+    ],
+    "radius": 34,
+    "lights": {
+      "sign": [
+        [
+          "f:0",
+          1
+        ]
+      ]
+    },
+    "points": {
+      "bridge left tower": [
+        -9.4,
+        6,
+        1.5
+      ],
+      "bridge right tower": [
+        9.4,
+        6,
+        1.5
+      ],
+      "sign": [
+        -11.2,
+        4.5,
+        2.1
+      ],
+      "house left 1": [
+        -25.7,
+        6,
+        -12
+      ],
+      "house left 3": [
+        -17,
+        6,
+        -13
+      ],
+      "house left 4": [
+        -12.8,
+        6,
+        -14.5
+      ],
+      "house right 1": [
+        13.5,
+        6,
+        -15
+      ],
+      "house right 2": [
+        18,
+        6,
+        -12
+      ],
+      "house right 4": [
+        27,
+        6,
+        -12
+      ],
+      "mill chimney": [
+        27,
+        10,
+        -21
+      ],
+      "tree left": [
+        -16.6,
+        5,
+        -8.6
+      ],
+      "tree right": [
+        16.5,
+        5,
+        3.5
+      ],
+      "stall left": [
+        -13.8,
+        5,
+        -4.6
+      ],
+      "stall right": [
+        16.2,
+        5,
+        -8.2
+      ],
+      "windmill": [
+        27,
+        9,
+        -34
+      ],
+      "barn": [
+        37,
+        5,
+        -21.5
+      ],
+      "near fields left": [
+        -30,
+        4,
+        -30
+      ],
+      "near fields right": [
+        30,
+        4,
+        30
+      ],
+      "town church": [
+        27,
+        12,
+        -50
+      ],
+      "town": [
+        32,
+        6,
+        -56
+      ],
+      "poplar row left": [
+        -12.2,
+        8,
+        -48
+      ],
+      "poplar row right": [
+        12.2,
+        8,
+        48
+      ]
+    },
+    "_far_land": "item 8: the far land beyond the near box (|x|,|z| > 42: terrain, far trees, ridges) lies outside the shadow box ON PURPOSE: it is in the capped haze (fogMax), where shadows do not show (references/effects/depth-filling.md)"
+  }
+}

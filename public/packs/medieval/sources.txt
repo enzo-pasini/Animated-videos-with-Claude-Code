@@ -1,0 +1,4 @@
+file | title | author | license | source page
+k_castle_kit.glb | Castle Kit | Kenney | CC0 1.0 | https://poly.pizza/m/2pA966ztJJX
+q_castle_fortress.glb | Castle Fortress | Quaternius | CC0 1.0 | https://poly.pizza/m/3r6gq3ow6O
+p_castle_02.glb | Bowsers Castle 1st Draft | Spadez86 | CC-BY 3.0 - NOT USED (fan model of a Nintendo castle; A/B/C test 2026-11-12 chose the Quaternius fortress) | https://poly.pizza/m/0-QY2fr4eTL

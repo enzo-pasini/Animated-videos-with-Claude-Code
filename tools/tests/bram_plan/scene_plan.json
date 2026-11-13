@@ -1,0 +1,71 @@
+{
+  "_about": "The locked v3 style test written as a scene plan. Rendering it with the Episode composition must give the same frames as style_lock/frames (tools/tests/test_episode.py). Raw camera moves copied from src/film/Shots.tsx; word anchors use the v3 word timing (audio/words.json): lit = word 6, second lit = word 31, someone = 36, had = 37, waiting = 39.",
+  "id": "bram_plan",
+  "format": "explainer",
+  "fps": 30,
+  "dissolve_frames": 8,
+  "frames": 360,
+  "audio": { "words": "audio/words.json", "public_path": null },
+  "captions": "captions.json",
+  "lights": {
+    "lantern": [["w:6+2", 0], ["w:6+6", 0.55], ["w:6+8", 0.45], ["w:6+12", 1]],
+    "window_across": [["w:31+1", 0], ["w:31+7", 0.35], ["w:31+11", 0.3], ["w:31+23", 1]]
+  },
+  "shots": [
+    {
+      "id": "s01", "beat": "hook", "from": "f:0", "set": "night_street",
+      "camera": { "move": { "target": [0.1, 1.45, -1.4], "dir": [0.5, 0.06, 1], "d0": 5.56, "fov": 44, "fovStart": 70,
+        "rate": 0.13, "fast": { "dur": 0.8, "factor": 1 }, "drift": [-0.12, 0, 0], "roll": [-1.2, 0.4] } },
+      "grade": "brightness(1.18) contrast(0.88)",
+      "actors": [
+        { "who": "bram", "at": "mark:lantern_spot",
+          "tracks": {
+            "armL": [["w:6-20", 0.62], ["w:6-1", 1.46]],
+            "lookX": [["w:6-24", 0], ["w:6-10", -0.7]],
+            "lookY": [["w:6-24", 0], ["w:6-10", -0.9]]
+          },
+          "steps": { "mouth": [["start", "flat"], ["w:6+5", "smile"]] },
+          "blink": ["f:10"] }
+      ]
+    },
+    {
+      "id": "s02", "beat": "escalation", "from": "f:60", "set": "night_street",
+      "camera": { "move": { "target": [3.0, 6.0, 6.4], "dir": [-0.56, -0.5, -0.66], "d0": 8.5, "fov": 50, "rate": 0.15,
+        "drift": [0.22, 0.02, 0], "roll": [0.8, 2.0] } },
+      "grade": "brightness(1.3) contrast(1.34) saturate(0.68)"
+    },
+    {
+      "id": "s03", "beat": "escalation", "from": "f:128", "set": "night_street",
+      "camera": { "move": { "target": [0.0, 1.42, -1.42], "dir": [-0.12, 0.03, 1], "d0": 4.5, "fov": 30, "rate": 0.09,
+        "drift": [0.06, 0, 0], "roll": [1.5, 0.5] } },
+      "blur_bg": 3,
+      "actors": [
+        { "who": "bram", "at": "mark:lantern_spot",
+          "pose": { "armL": 0.62, "lookX": -0.4, "lookY": 0.7, "mouth": "flat", "browRaise": -0.45, "headTilt": -0.04 },
+          "blink": ["f:168"] }
+      ]
+    },
+    {
+      "id": "s04", "beat": "turn", "from": "f:200", "set": "night_street",
+      "camera": { "move": { "target": [0.9, 4.25, 6.5], "dir": [-0.1, -0.42, -1], "d0": 7.6, "fov": 40, "rate": 0.14,
+        "drift": [0.16, 0, 0], "roll": [-0.5, -1.8] } },
+      "grade": { "from": [1.3, 1.34, 0.68], "to": [1.02, 0.9, 0.98], "follow": "window_across" }
+    },
+    {
+      "id": "s05", "beat": "reveal", "from": "f:276", "set": "night_street",
+      "camera": { "move": { "target": [0.0, 1.35, -1.42], "dir": [-0.45, 0.02, 1], "d0": 7.1, "fov": 32, "rate": 0.11,
+        "drift": [-0.12, 0, 0], "roll": [0.0, -1.5] } },
+      "extra_warm": [{ "pos": [0.6, 2.7, 1.4], "color": "#ffcf8c", "strength": 0.45, "range": 3.4, "follow": "window_across" }],
+      "actors": [
+        { "who": "bram", "at": "mark:lantern_spot",
+          "pose": { "armL": 0.62, "lookX": 0.15, "lookY": -0.6 },
+          "tracks": {
+            "browRaise": [["start", 1], ["w:39", 0.35]],
+            "headTilt": [["start", 0], ["start+60", 0.06]]
+          },
+          "steps": { "mouth": [["start", "open"], ["w:36", "smile"]] },
+          "blink": ["w:37+2"] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+ "_about": "Planned cameras of the old_basement set (videos/2026-11-12-furnace-ghosts, set_plan.md). Read by tools/camera_view.py and tools/before_after.py. Not read by the renderer. Actors are stand-ins (pell = the repairman, mira = Lena) until the new cast exists.",
+ "set": "old_basement",
+ "lights": {
+  "furnace": 1,
+  "bulb": 1,
+  "cracked": 1,
+  "door": 1
+ },
+ "cameras": [
+  {
+   "id": "C1",
+   "label": "hook: repairman at the furnace (s01)",
+   "target": [
+    0.95,
+    1.1,
+    -0.5
+   ],
+   "dir": [
+    -0.2,
+    0.12,
+    0.97
+   ],
+   "d0": 3.0,
+   "fov": 44,
+   "rate": 0.13,
+   "drift": [
+    0.06,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "pell",
+     [
+      1.3,
+      0.0,
+      -0.3
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C2",
+   "label": "close: the furnace door + crack (s13, s15)",
+   "target": [
+    0.6,
+    0.95,
+    -0.7
+   ],
+   "dir": [
+    0.32,
+    0.08,
+    0.94
+   ],
+   "d0": 2.2,
+   "fov": 30,
+   "rate": 0.09,
+   "drift": [
+    -0.05,
+    0,
+    0
+   ]
+  },
+  {
+   "id": "C3",
+   "label": "medium: Lena on the stairs (s01, s22)",
+   "target": [
+    -2.0,
+    1.55,
+    -0.6
+   ],
+   "dir": [
+    0.82,
+    -0.02,
+    0.57
+   ],
+   "d0": 2.3,
+   "fov": 40,
+   "rate": 0.13,
+   "drift": [
+    0.05,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "mira",
+     [
+      -2.1,
+      0.6,
+      -0.6
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C4",
+   "label": "wide: the basement (s22)",
+   "target": [
+    0.4,
+    1.0,
+    -0.6
+   ],
+   "dir": [
+    -0.38,
+    0.3,
+    0.87
+   ],
+   "d0": 2.4,
+   "fov": 44,
+   "rate": -0.1,
+   "drift": [
+    0.08,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "pell",
+     [
+      1.3,
+      0.0,
+      -0.3
+     ]
+    ],
+    [
+     "mira",
+     [
+      -0.35,
+      0.0,
+      -0.5
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C5",
+   "label": "the door at the top of the stairs, backlit (s02/s11 option)",
+   "target": [
+    -2.05,
+    1.9,
+    -1.85
+   ],
+   "dir": [
+    0.45,
+    -0.12,
+    0.88
+   ],
+   "d0": 3.6,
+   "fov": 40,
+   "rate": 0.13,
+   "drift": [
+    0.05,
+    0,
+    0
+   ],
+   "actors": [
+    [
+     "mira",
+     [
+      -1.95,
+      1.02,
+      -1.4
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "C6",
+   "label": "wide reverse: the dark passage + crates",
+   "target": [
+    1.6,
+    1.2,
+    -0.2
+   ],
+   "dir": [
+    -0.8,
+    0.15,
+    0.58
+   ],
+   "d0": 2.9,
+   "fov": 44,
+   "rate": -0.1,
+   "drift": [
+    0.05,
+    0,
+    0
+   ]
+  },
+  {
+   "id": "C7",
+   "label": "furnace top: the web to the back wall + the spider",
+   "target": [
+    0.6,
+    2.1,
+    -1.9
+   ],
+   "dir": [
+    0.1,
+    -0.1,
+    0.99
+   ],
+   "d0": 3.6,
+   "fov": 50,
+   "rate": 0.1,
+   "drift": [
+    0.04,
+    0,
+    0
+   ]
+  }
+ ],
+ "_pull_out_note": "pull-out cameras (rate < 0) start close enough that d0 x 1.25 (2.5 s of pull) stays inside camera_bounds (S3 2026-11-13: C4 ended inside the front wall)"
+}

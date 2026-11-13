@@ -1,0 +1,1094 @@
+{
+ "_about": "The ghosts from the furnace. Word index -> word: 8 It(started), 19 At(night), 29 Then(mother), 35 man, 47 Every(morning), 60 Even(plants), 65 So(dad), 76 That(night), 83 louder, 86 Lena(lights on), 91 lights, 93 But, 98 the(ghosts only), 110 On(warm), 122 You(see), 129 leaking, 135 Carbon, 141 It(grabs), 147 about, 155 So(brain), 161 starving, 166 One(repair), 173 In(1921), 178 a(real). Sets: old_basement, lena_bedroom (new, S1-S3 approved), night_street (the old house from outside).",
+ "id": "2026-11-12-furnace-ghosts",
+ "format": "explainer",
+ "fps": 30,
+ "dissolve_frames": 8,
+ "audio": {
+  "words": "audio/words.json",
+  "public_path": "episodes/2026-11-12-furnace-ghosts/mix.wav"
+ },
+ "captions": "captions.json",
+ "lights": {
+  "lamp": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:91-1",
+    0
+   ],
+   [
+    "w:91",
+    1
+   ]
+  ],
+  "plant": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:63",
+    0
+   ],
+   [
+    "w:64",
+    1
+   ]
+  ],
+  "sitter": [
+   [
+    "f:0",
+    1
+   ],
+   [
+    "w:65-1",
+    1
+   ],
+   [
+    "w:65",
+    0
+   ],
+   [
+    "w:76-1",
+    0
+   ],
+   [
+    "w:76",
+    1
+   ]
+  ],
+  "furnace": [
+   [
+    "f:0",
+    1
+   ]
+  ],
+  "bulb": [
+   [
+    "f:0",
+    1
+   ]
+  ],
+  "door": [
+   [
+    "f:0",
+    1
+   ]
+  ],
+  "cracked": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:122-1",
+    0
+   ],
+   [
+    "w:122",
+    1
+   ],
+   [
+    "w:166-1",
+    1
+   ],
+   [
+    "w:166",
+    0
+   ]
+  ],
+  "lantern": [
+   [
+    "f:0",
+    1
+   ]
+  ],
+  "window_across": [
+   [
+    "f:0",
+    0
+   ],
+   [
+    "w:173-1",
+    0
+   ],
+   [
+    "w:173",
+    1
+   ]
+  ]
+ },
+ "sfx": [
+  {
+   "at": "w:35+3",
+   "sound": "alert"
+  },
+  {
+   "at": "w:83+1",
+   "sound": "alert"
+  },
+  {
+   "at": "w:95+3",
+   "sound": "woosh"
+  },
+  {
+   "at": "w:95+15",
+   "sound": "click"
+  },
+  {
+   "at": "w:95+25",
+   "sound": "click"
+  },
+  {
+   "at": "w:171+2",
+   "sound": "woosh"
+  }
+ ],
+ "shots": [
+  {
+   "id": "s01",
+   "beat": "hook",
+   "from": "f:0",
+   "set": "old_basement",
+   "camera": {
+    "preset": "fast_entry",
+    "aim": [
+     1.1,
+     1.2,
+     -0.3
+    ],
+    "head_pct": 22,
+    "side": "left",
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": [
+      1.85,
+      0.0,
+      0.0
+     ],
+     "pose": {
+      "expr": "happy",
+      "lookX": -0.5
+     },
+     "blink": [
+      "f:30"
+     ]
+    },
+    {
+     "who": "repairman",
+     "at": "mark:furnace",
+     "pose": {
+      "expr": "proud",
+      "lookX": 0.4
+     }
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "beat": "escalation",
+   "from": "w:8",
+   "set": "night_street",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -1.0,
+     1.2,
+     -0.3
+    ],
+    "head_pct": 20,
+    "side": "right",
+    "elev": 0.08
+   },
+   "actors": [
+    {
+     "who": "lena_mom",
+     "at": [
+      -1.75,
+      0.0,
+      0.05
+     ],
+     "pose": {
+      "expr": "neutral"
+     }
+    },
+    {
+     "who": "lena",
+     "at": [
+      -1.0,
+      0.0,
+      -0.1
+     ],
+     "pose": {
+      "expr": "worried"
+     }
+    },
+    {
+     "who": "lena_dad",
+     "at": [
+      -0.25,
+      0.0,
+      0.0
+     ],
+     "pose": {
+      "expr": "neutral"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "beat": "escalation",
+   "from": "w:19",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "close_up",
+    "aim": "mark:bed",
+    "part": "head",
+    "side": "right",
+    "fov": 46
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "worried"
+     },
+     "tracks": {
+      "lookY": [
+       [
+        "start",
+        0.1
+       ],
+       [
+        "w:24",
+        -0.7
+       ]
+      ]
+     },
+     "blink": [
+      "w:22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "beat": "escalation",
+   "from": "w:29",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:bed",
+    "part": "head",
+    "head_pct": 26,
+    "side": "left",
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena_mom",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "neutral"
+     },
+     "steps": {
+      "fx": [
+       [
+        "w:35",
+        "scared"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "beat": "escalation",
+   "from": "w:35",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:bed_foot",
+    "part": "head",
+    "head_pct": 24,
+    "side": "right",
+    "fov": 60,
+    "front": [
+     1,
+     0,
+     0.45
+    ]
+   },
+   "actors": [
+    {
+     "who": "coat_man",
+     "at": "mark:bed_foot",
+     "pose": {
+      "expr": "neutral"
+     }
+    },
+    {
+     "who": "lena_mom",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "surprised"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "beat": "escalation",
+   "from": "w:47",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -0.45,
+     1.0,
+     -1.0
+    ],
+    "head_pct": 16,
+    "side": "right",
+    "elev": 0.2,
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "sad"
+     }
+    },
+    {
+     "who": "lena_mom",
+     "at": [
+      -0.15,
+      0.0,
+      -0.9
+     ],
+     "pose": {
+      "expr": "sad"
+     }
+    },
+    {
+     "who": "lena_dad",
+     "at": [
+      -2.05,
+      0.0,
+      -1.3
+     ],
+     "pose": {
+      "expr": "sad"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "beat": "escalation",
+   "from": "w:60",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     1.4,
+     1.3,
+     -2.05
+    ],
+    "head_pct": 26,
+    "side": "left",
+    "fov": 60
+   }
+  },
+  {
+   "id": "s08",
+   "beat": "escalation",
+   "from": "w:65",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     1.45,
+     1.2,
+     0.5
+    ],
+    "head_pct": 22,
+    "side": "left",
+    "fov": 60,
+    "front": [
+     -1,
+     0,
+     0.35
+    ]
+   },
+   "actors": [
+    {
+     "who": "lena_dad",
+     "at": "mark:door",
+     "pose": {
+      "expr": "worried"
+     }
+    },
+    {
+     "who": "priest",
+     "at": [
+      1.0,
+      0.0,
+      0.25
+     ],
+     "pose": {
+      "expr": "neutral"
+     },
+     "tracks": {
+      "armL": [
+       [
+        "start",
+        0.2
+       ],
+       [
+        "w:73",
+        2.2
+       ],
+       [
+        "w:75+6",
+        1.6
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "beat": "escalation",
+   "from": "w:76",
+   "set": "lena_bedroom",
+   "lines": "w:83",
+   "camera": {
+    "preset": "close_up",
+    "aim": "mark:bed",
+    "part": "head",
+    "side": "left",
+    "punch": "w:83",
+    "fov": 46,
+    "front": [
+     1,
+     0,
+     0.6
+    ],
+    "head_pct": 29
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "worried"
+     },
+     "steps": {
+      "fx": [
+       [
+        "w:83-4",
+        "shock"
+       ]
+      ]
+     },
+     "blink": [
+      "w:79"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "beat": "escalation",
+   "from": "w:86",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -0.6,
+     1.0,
+     -1.2
+    ],
+    "head_pct": 18,
+    "side": "right",
+    "elev": 0.15,
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "worried"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "beat": "turn",
+   "from": "w:93",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "close_up",
+    "aim": "mark:bed",
+    "part": "head",
+    "side": "right",
+    "fov": 46
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "neutral"
+     },
+     "steps": {
+      "fx": [
+       [
+        "w:95",
+        "think"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "beat": "turn",
+   "from": "w:98",
+   "set": "old_basement",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     0.6,
+     0.85,
+     -0.6
+    ],
+    "head_pct": 20,
+    "side": "right",
+    "fov": 60
+   }
+  },
+  {
+   "id": "s13",
+   "beat": "turn",
+   "from": "w:110",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -1.0,
+     1.0,
+     -1.4
+    ],
+    "head_pct": 18,
+    "side": "right",
+    "elev": 0.15,
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "happy"
+     },
+     "blink": [
+      "w:115",
+      "w:119"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "beat": "you-see",
+   "from": "w:122",
+   "set": "old_basement",
+   "camera": {
+    "preset": "close_up",
+    "aim": [
+     0.75,
+     1.0,
+     -0.62
+    ],
+    "side": "right",
+    "fov": 46
+   },
+   "blur_bg": 2
+  },
+  {
+   "id": "s15",
+   "beat": "you-see",
+   "from": "w:129",
+   "set": "insert",
+   "camera": {
+    "preset": "push_in"
+   },
+   "insert": {
+    "background": "night",
+    "shapes": [
+     {
+      "type": "rect",
+      "x": 230,
+      "y": 260,
+      "w": 620,
+      "h": 900,
+      "fill": "#4a4258",
+      "radius": 18,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 270,
+      "y": 300,
+      "w": 540,
+      "h": 380,
+      "fill": "#6e5a7a",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "rect",
+      "x": 270,
+      "y": 720,
+      "w": 540,
+      "h": 400,
+      "fill": "#5a4c66",
+      "radius": 10,
+      "at": "start"
+     },
+     {
+      "type": "circle",
+      "x": 540,
+      "y": 980,
+      "r": 90,
+      "fill": "#e07a3a",
+      "at": "start"
+     },
+     {
+      "type": "dots",
+      "x": 330,
+      "y": 330,
+      "w": 420,
+      "h": 700,
+      "n": 26,
+      "r": 16,
+      "fill": "#b9b4c6",
+      "seed": 3,
+      "drift": [
+       0,
+       -40
+      ],
+      "at": "w:131"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s16",
+   "beat": "reveal",
+   "from": "w:135",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:bed",
+    "part": "head",
+    "head_pct": 26,
+    "side": "right",
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "thinking"
+     },
+     "steps": {
+      "expr": [
+       [
+        "start",
+        "thinking"
+       ],
+       [
+        "w:139",
+        "shrug"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "beat": "reveal",
+   "from": "w:141",
+   "set": "insert",
+   "camera": {
+    "preset": "push_in"
+   },
+   "insert": {
+    "background": "paper",
+    "shapes": [
+     {
+      "type": "blob",
+      "x": 380,
+      "y": 620,
+      "r": 150,
+      "fill": "#c9504a",
+      "seed": 4,
+      "at": "start"
+     },
+     {
+      "type": "blob",
+      "x": 700,
+      "y": 900,
+      "r": 140,
+      "fill": "#c9504a",
+      "seed": 7,
+      "at": "start"
+     },
+     {
+      "type": "dots",
+      "x": 250,
+      "y": 450,
+      "w": 600,
+      "h": 650,
+      "n": 14,
+      "r": 20,
+      "fill": "#7fa6c9",
+      "seed": 2,
+      "at": "w:145"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s18",
+   "beat": "reveal",
+   "from": "w:147",
+   "set": "insert",
+   "camera": {
+    "preset": "pull_out"
+   },
+   "insert": {
+    "background": "paper",
+    "shapes": [
+     {
+      "type": "blob",
+      "x": 380,
+      "y": 620,
+      "r": 150,
+      "fill": "#c9504a",
+      "seed": 4,
+      "at": "start"
+     },
+     {
+      "type": "blob",
+      "x": 700,
+      "y": 900,
+      "r": 140,
+      "fill": "#c9504a",
+      "seed": 7,
+      "at": "start"
+     },
+     {
+      "type": "dots",
+      "x": 300,
+      "y": 540,
+      "w": 160,
+      "h": 160,
+      "n": 7,
+      "r": 22,
+      "fill": "#6e6a7a",
+      "seed": 5,
+      "at": "w:148"
+     },
+     {
+      "type": "dots",
+      "x": 620,
+      "y": 820,
+      "w": 160,
+      "h": 160,
+      "n": 7,
+      "r": 22,
+      "fill": "#6e6a7a",
+      "seed": 6,
+      "at": "w:150"
+     },
+     {
+      "type": "dots",
+      "x": 120,
+      "y": 300,
+      "w": 840,
+      "h": 120,
+      "n": 8,
+      "r": 18,
+      "fill": "#7fa6c9",
+      "seed": 8,
+      "drift": [
+       0,
+       -30
+      ],
+      "at": "w:151"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s19",
+   "beat": "reveal",
+   "from": "w:155",
+   "set": "insert",
+   "camera": {
+    "preset": "push_in"
+   },
+   "insert": {
+    "background": "night",
+    "shapes": [
+     {
+      "type": "blob",
+      "x": 420,
+      "y": 700,
+      "r": 220,
+      "fill": "#d9a8b8",
+      "seed": 9,
+      "at": "start"
+     },
+     {
+      "type": "blob",
+      "x": 660,
+      "y": 700,
+      "r": 220,
+      "fill": "#d9a8b8",
+      "seed": 11,
+      "at": "start"
+     },
+     {
+      "type": "blob",
+      "x": 540,
+      "y": 960,
+      "r": 90,
+      "fill": "#c99aa8",
+      "seed": 12,
+      "at": "start"
+     },
+     {
+      "type": "blob",
+      "x": 420,
+      "y": 700,
+      "r": 170,
+      "fill": "#a89aa8",
+      "seed": 13,
+      "at": "w:157"
+     },
+     {
+      "type": "blob",
+      "x": 660,
+      "y": 700,
+      "r": 170,
+      "fill": "#a89aa8",
+      "seed": 14,
+      "at": "w:158"
+     }
+    ]
+   }
+  },
+  {
+   "id": "s20",
+   "beat": "reveal",
+   "from": "w:161",
+   "set": "lena_bedroom",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:bed_foot",
+    "part": "head",
+    "head_pct": 22,
+    "side": "right",
+    "fov": 60,
+    "front": [
+     1,
+     0,
+     0.45
+    ]
+   },
+   "actors": [
+    {
+     "who": "coat_man",
+     "at": "mark:bed_foot",
+     "pose": {
+      "expr": "neutral"
+     }
+    },
+    {
+     "who": "lena",
+     "at": "mark:bed",
+     "pose": {
+      "expr": "worried"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "beat": "ending",
+   "from": "w:166",
+   "set": "old_basement",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     1.1,
+     1.2,
+     -0.3
+    ],
+    "head_pct": 22,
+    "side": "left",
+    "elev": 0.06,
+    "fov": 60
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": [
+      1.85,
+      0.0,
+      0.0
+     ],
+     "pose": {
+      "expr": "happy",
+      "lookX": -0.5
+     },
+     "steps": {
+      "fx": [
+       [
+        "w:171",
+        "happy"
+       ]
+      ]
+     }
+    },
+    {
+     "who": "repairman",
+     "at": "mark:furnace",
+     "pose": {
+      "expr": "proud",
+      "lookX": 0.4
+     }
+    }
+   ]
+  },
+  {
+   "id": "s22",
+   "beat": "ending",
+   "from": "w:173",
+   "set": "night_street",
+   "camera": {
+    "preset": "pull_out",
+    "aim": [
+     -1.0,
+     1.2,
+     -0.3
+    ],
+    "head_pct": 18,
+    "side": "left",
+    "elev": 0.08
+   },
+   "actors": [
+    {
+     "who": "lena_mom",
+     "at": [
+      -1.75,
+      0.0,
+      0.05
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    },
+    {
+     "who": "lena",
+     "at": [
+      -1.0,
+      0.0,
+      -0.1
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    },
+    {
+     "who": "lena_dad",
+     "at": [
+      -0.25,
+      0.0,
+      0.0
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s23",
+   "beat": "ending",
+   "from": "w:178",
+   "set": "night_street",
+   "camera": {
+    "preset": "push_in",
+    "aim": [
+     -1.0,
+     1.55,
+     -0.1
+    ],
+    "head_pct": 28,
+    "side": "right"
+   },
+   "actors": [
+    {
+     "who": "lena",
+     "at": [
+      -1.0,
+      0.0,
+      -0.1
+     ],
+     "pose": {
+      "expr": "happy"
+     },
+     "blink": [
+      "w:181"
+     ]
+    },
+    {
+     "who": "lena_mom",
+     "at": [
+      -1.75,
+      0.0,
+      0.05
+     ],
+     "pose": {
+      "expr": "happy"
+     }
+    }
+   ]
+  }
+ ]
+}

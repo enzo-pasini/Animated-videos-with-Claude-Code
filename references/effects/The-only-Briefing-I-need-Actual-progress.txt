@@ -1,0 +1,36 @@
+
+=======================
+NEXT EFFECTS TO WORK ON
+=======================
+
+1.  Shadows/contorno em volta da cabeça do personagem -> ALREADY WORKED ON
+
+2.  3d Cloathing/Cloath Details -> ALREADY WORKED ON
+
+3.  How can I bring identity to my characters? -> ALREADY WORKED ON -> USING FACES SHAPES -> ONE FOR MALE AND FEMALE CHARACTERS.
+
+4. Royalty free voice over.
+
+5. Bringing and exploring + effects (doing along the way)
+
+# So what remains to begin doing our video tests?
+
+1. Ver se tem algum efeito/tarefa a se mecher (perguntar ao claude)
+
+2. Planejar roteiro - Em vez de só pedir para o claude fazer um novo vídeo dar um brief do roteiro do video (video explicando como o microondas funciona)
+
+
+
+
+
+# Feedback de outras coisas com base na referência:
+##  3d Cloathing/Cloath Details (Mostly on main caracthers. On Background caracters, apply less this effect to avoid massive details and informations on screen) : A roupa dos personagens da referência é 3d, mas o personagem é 2d. Gostei desse estilo e quero implementar.
+	### Reference: 
+https://www.youtube.com/shorts/uRkLhDrKQeU | 3d Cloathing/Details - you can se the details on the character clothes. That brig quality for the vídeo. | 0:13 - 0:21 , 0:43 - 0:47
+
+
+##  Shadows/contorno em volta da cabeça do personagem: faz ele parecer 3d e tira um pouco do utópico do 2d, deixando natural.
+	### Reference: https://www.youtube.com/shorts/eSRnuL-fVSE
+
+Others VFX realy important to better quality:
+	- Contact Shadow: Soft dark spot under feet, and

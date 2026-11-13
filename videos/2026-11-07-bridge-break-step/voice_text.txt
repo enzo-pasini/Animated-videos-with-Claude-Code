@@ -1,0 +1,22 @@
+# ElevenLabs text — paste only the lines below the notes (from "Soldiers are..." to "...not a drum.").
+# Speed: the fastest setting that still sounds natural (about 1.1–1.2). Target pace ≈ 3.5 words/s AFTER the atempo speed-up (D18); ElevenLabs alone is usually 2.3–2.6 w/s, so we speed it up in step 6.
+# First sentence a little faster; the last line ("Walk like a crowd, not a drum.") a little slower. Script: 177 words ≈ 51 s.
+Soldiers are forbidden to march in step here.
+A sign on London's Albert Bridge still says so.
+It sounds like a silly rule.
+Now you're one of seventy-four soldiers near Manchester, in eighteen thirty-one.
+You march four abreast onto the Broughton Suspension Bridge.
+Then the bridge starts to bounce, in time with your boots.
+Some of the men think it's funny.
+So they whistle a marching tune and step along with the bounce.
+It shakes even harder.
+Then one corner drops, and about forty men fall into the river.
+Luckily, it's only two feet deep.
+Nobody dies, but twenty men are hurt.
+Investigators found a badly made bolt that had snapped.
+But the marching is what snapped it that day.
+You see, every bridge has its own natural swing, like a playground swing.
+Push a swing at the right moment, every time, and it goes higher and higher.
+Boots landing together are those pushes, so each step adds to the last bounce.
+That's why the army still says: break step.
+Walk like a crowd, not a drum.

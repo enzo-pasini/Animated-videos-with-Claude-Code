@@ -1,0 +1,32 @@
+{
+ "_about": "One entry per published video (tools/variety_check.py --log at step 11). Read by the variety check (PLAN section 6) and by mix_audio.py (music rotation).",
+ "videos": [
+  {
+   "slug": "2026-11-07-bridge-break-step",
+   "title": "The Bridge That Hated Marching",
+   "format": "explainer",
+   "sets": [
+    "bridge"
+   ],
+   "redress": [],
+   "cast": [
+    "rifleman",
+    "rifleman_b",
+    "rifleman_c"
+   ],
+   "main_character": "rifleman",
+   "silhouette": "tall shako + upright rifle",
+   "main_color": "#3f6b4f",
+   "light_seq": "WWWWWWWWWWWWWWWW---WWWW",
+   "camera_seq": "fast_entry/pull_out/close_up/push_in/push_in/push_in/push_in/close_up/push_in/close_up/push_in/push_in/close_up/pull_out/push_in/close_up/push_in/push_in/pull_out/push_in/pull_out/push_in/push_in",
+   "hook": "forbidden",
+   "you_see": "late",
+   "ending": "button",
+   "pov": "you",
+   "words": 177,
+   "duration_s": 50.9,
+   "music": "Jigsaw Puzzle - The Green Orbs.mp3",
+   "date": "2026-11-07"
+  }
+ ]
+}

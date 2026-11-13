@@ -1,0 +1,61 @@
+Free 3D packs for theme kits (scenes plan, session 3: docs/prompts/3-theme-kits.md)
+One line per pack: link | theme | license (if you saw it)
+Where to look (low-poly, free):
+  kenney.nl        - all CC0, clean low-poly (city, furniture, nature, castles), closest to our style
+  quaternius.com   - all CC0, nature, medieval, buildings
+  poly.pizza       - search engine for low-poly models, CC0 or CC-BY (check each)
+  sketchfab.com    - huge, mixed quality; filter "Downloadable" + license
+Licenses: CC0 = free, no credit · CC-BY = free, credit in the video description · non-commercial / personal = do NOT use
+Format: .glb / .gltf best; .fbx / .obj also work.
+Example:
+https://kenney.nl/assets/furniture-kit | home interiors (kitchen, bathroom) | CC0
+
+O que eu achei:
+https://poly.pizza/bundle/The-Office-Pack-UGIy7YcQP9 | Office Pack | CC0
+
+-------
+https://poly.pizza/bundle/Ultimate-House-Interior-Pack-2SXnFbwFzm | House Interior Pack - 1 (preffer this one) | CC0
+
+-------
+https://poly.pizza/bundle/Furniture-Kit-NoG1sEUD1z | House Interior Pack - 2 (it has some additional objects that dont have on pack 1 above. Use only objects that dont have in pack - 1) | CC0
+
+-------
+https://quaternius.com/packs/simplebuildings.html | Simple Building Packs (Houses, hospital, etc) | CC0
+
+-------
+https://poly.pizza/m/etFGNvsiFv | Trees | CC0
+
+-------
+https://poly.pizza/m/UGTOzcO3P2 | Grass | CC0
+
+-------
+https://kenney.nl/assets/castle-kit | Castle - 01 Pack| CC0
+
+-------
+https://poly.pizza/m/0-QY2fr4eTL Castle - 02 (Good for main castle, Brings Identity, its only the main building, so my need to use the pack above to compelent) | CCBY
+
+-------
+https://poly.pizza/m/cspkBmqAq8g | Mountain Cabin Pack (Mountains, trees, house, in snow) | CCBY
+
+-------
+https://poly.pizza/m/eZRzCg5BcR | Rock Snow | CC0
+-------
+
+https://poly.pizza/m/cKYkfU3kdWC | Snowman | CCBY
+-------
+
+https://poly.pizza/m/qKICY6xla2 | Cat | CC0
+-------
+
+https://poly.pizza/m/WAkBnE6ydO | Cute Red Dino (Good for using as puppies, animals, brings identity) | CC0
+-------
+
+https://poly.pizza/m/fj2aj4qSCS | Desert + Cactuses |  CC0
+-------
+
+https://poly.pizza/m/dDiBJRKP5ux | Camel | CCBY
+-------
+
+https://poly.pizza/m/0ySmwTitJrP |  Tumbleweed | CCBY
+
+https://poly.pizza/m/9sUalfQ76kn | Hospital Room | CCBY

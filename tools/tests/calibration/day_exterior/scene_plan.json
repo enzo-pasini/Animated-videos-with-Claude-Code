@@ -1,0 +1,108 @@
+{
+ "_about": "Calibration plan for the dayExterior preset (D10/D12) on the day_street set. Rebuild: build_props.py tools/tests/calibration/day_exterior, render Episode with its render_props.json, measure with check_render.py --profile calibration (day shots use the day range). Max 2 iterations after v1. Iteration 1: d1 and d4 look along the street (front [-1,0,0] / [1,0,0]) so the sky is in frame, like the reference day shots.",
+ "fps": 30,
+ "dissolve_frames": 8,
+ "frames": 300,
+ "audio": {
+  "words": "../../bram_plan/audio/words.json",
+  "public_path": null
+ },
+ "lights": {},
+ "shots": [
+  {
+   "id": "d1",
+   "beat": "hook",
+   "from": "f:0",
+   "set": "day_street",
+   "camera": {
+    "preset": "fast_entry",
+    "aim": "mark:street_center",
+    "side": "left",
+    "front": [
+     -1,
+     0,
+     0
+    ]
+   },
+   "actors": [
+    {
+     "who": "juno",
+     "at": "mark:street_center",
+     "pose": {
+      "expr": "thinking"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "from": "f:68",
+   "set": "day_street",
+   "camera": {
+    "preset": "push_in",
+    "aim": "mark:street_far",
+    "side": "left",
+    "front": [
+     0,
+     0,
+     -1
+    ]
+   },
+   "actors": [
+    {
+     "who": "juno",
+     "at": "mark:street_far",
+     "pose": {
+      "expr": "neutral"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "from": "f:140",
+   "set": "day_street",
+   "camera": {
+    "preset": "close_up",
+    "aim": "mark:door",
+    "side": "front"
+   },
+   "blur_bg": 3,
+   "actors": [
+    {
+     "who": "juno",
+     "at": "mark:door",
+     "pose": {
+      "expr": "surprised"
+     }
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "from": "f:215",
+   "set": "day_street",
+   "camera": {
+    "preset": "pull_out",
+    "aim": "mark:street_center",
+    "side": "right",
+    "head_pct": 30,
+    "front": [
+     1,
+     0,
+     0
+    ]
+   },
+   "actors": [
+    {
+     "who": "juno",
+     "at": "mark:street_center",
+     "pose": {
+      "expr": "happy"
+     }
+    }
+   ]
+  }
+ ],
+ "captions": "../../bram_plan/captions.json"
+}

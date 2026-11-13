@@ -1,0 +1,29 @@
+{
+  "fps": 30, "dissolve_frames": 8, "frames": 300,
+  "audio": { "words": "../bram_plan/audio/words.json", "public_path": null },
+  "captions": "../bram_plan/captions.json",
+  "lights": { "lamp": [["f:0", 1]] },
+  "shots": [
+    { "id": "s1", "beat": "hook", "from": "f:0", "set": "workshop", "camera": { "preset": "fast_entry", "aim": "mark:table", "side": "right" },
+      "actors": [ { "who": "mira", "at": "mark:table", "pose": { "expr": "worried" } } ] },
+    { "id": "s2", "beat": "reveal", "from": "f:64", "set": "insert", "camera": { "preset": "push_in" },
+      "insert": { "background": "paper", "shapes": [
+        { "type": "blob", "x": 540, "y": 760, "r": 330, "fill": "#d9c7e6", "seed": 4, "at": "start" },
+        { "type": "dots", "x": 330, "y": 600, "w": 180, "h": 300, "n": 14, "r": 18, "fill": "#e8c87a", "seed": 2, "at": "start+12" },
+        { "type": "dots", "x": 600, "y": 600, "w": 180, "h": 300, "n": 10, "r": 22, "fill": "#7fa6c9", "seed": 7, "at": "start+24" },
+        { "type": "arrow", "from": [120, 300], "to": [480, 640], "color": "#9daac1", "width": 22, "at": "start+44" },
+        { "type": "dots", "x": 420, "y": 380, "w": 260, "h": 160, "n": 18, "r": 14, "fill": "#b47d5f", "seed": 9, "drift": [0, -60], "at": "start+60" }
+      ] } },
+    { "id": "s3", "beat": "reveal", "from": "f:150", "set": "insert", "camera": { "preset": "pull_out" },
+      "insert": { "background": "night", "shapes": [
+        { "type": "circle", "x": 540, "y": 900, "r": 230, "fill": "#f4eee4", "at": "start" },
+        { "type": "circle", "x": 540, "y": 900, "r": 110, "fill": "#6e7db8", "at": "start+6" },
+        { "type": "circle", "x": 540, "y": 900, "r": 50, "fill": "#1b1322", "at": "start+10" },
+        { "type": "dots", "x": 260, "y": 420, "w": 560, "h": 220, "n": 20, "r": 14, "fill": "#b47d5f", "seed": 5, "drift": [0, 50], "at": "start+20" },
+        { "type": "arrow", "from": [540, 560], "to": [540, 650], "color": "#d1aa7a", "width": 18, "at": "start+30" },
+        { "type": "arrow", "from": [800, 1110], "to": [820, 1240], "color": "#7fa6c9", "width": 18, "at": "start+50" }
+      ] } },
+    { "id": "s4", "beat": "ending", "from": "f:230", "set": "workshop", "camera": { "preset": "push_in", "aim": "mark:center", "side": "left" },
+      "actors": [ { "who": "mira", "at": "mark:center", "pose": { "expr": "happy" } } ] }
+  ]
+}
